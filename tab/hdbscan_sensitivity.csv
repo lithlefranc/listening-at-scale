@@ -1,0 +1,19 @@
+min_cluster_size,min_samples,clusters,clustered_pct,dbcv,noise_cluster_size,seeds_in_noise_cluster,seeds_outside
+10,5,538,58.9,0.184,71,5,"lawijd, lawaai, gerucht, kabaal, rumoer"
+10,10,349,52.7,0.181,112,8,"gerucht, kabaal"
+10,25,151,52.9,0.219,105,8,"gerucht, kabaal"
+25,5,215,62.8,0.216,113,8,"gerucht, kabaal"
+25,10,173,55.0,0.241,112,8,"gerucht, kabaal"
+25,25,76,74.9,0.109,105,8,"gerucht, kabaal"
+50,5,115,61.1,0.232,113,8,"gerucht, kabaal"
+50,10,97,55.4,0.286,112,8,"gerucht, kabaal"
+50,25,59,76.8,0.163,105,8,"gerucht, kabaal"
+75,5,75,57.9,0.295,113,8,"gerucht, kabaal"
+75,10,5,99.7,0.918,29858,10,
+75,25,44,76.0,0.142,105,8,"gerucht, kabaal"
+100,5,63,59.3,0.237,113,8,"gerucht, kabaal"
+100,10,4,99.7,0.731,29858,10,
+100,25,37,75.3,0.101,105,8,"gerucht, kabaal"
+150,5,45,56.7,0.227,0,0,"lawijd, lawaai, gerucht, kabaal, rumoer, nachtlawijd, nachtlawaai, nachtrumoer, nachtgerucht, nachtrust"
+150,10,3,99.7,0.737,29858,10,
+150,25,28,74.0,0.102,0,0,"lawijd, lawaai, gerucht, kabaal, rumoer, nachtlawijd, nachtlawaai, nachtrumoer, nachtgerucht, nachtrust"

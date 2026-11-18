@@ -1,0 +1,3177 @@
+event_id,year,district,night,matched
+1253#4_489,1940,10,False,nachtegaal
+1253#4_539,1940,10,False,gerucht
+1699#126_128,1920,9,False,lawaai
+1699#126_216,1920,9,False,geruct
+1699#126_401,1920,9,False,nachtrumoer
+1699#126_403,1920,9,False,nachtrust
+1699#126_443,1920,9,True,lawijd
+1699#126_444,1920,9,False,nachtgerucht
+1699#126_446,1920,9,True,nachtgerucht; nachtrust; stoorde
+1699#126_453,1920,9,False,nachtger
+1699#126_460,1920,9,False,nachtges
+1699#126_751,1920,9,False,berucht
+1699#126_975,1920,9,True,nachtgewaad
+1699#126_1184,1920,9,True,lawaai; nachtlawaai
+1699#126_1185,1920,9,True,nachtlawaai
+1699#126_1186,1920,9,False,lawaai
+1699#126_1351,1920,9,False,luidkeels; nachtgerel; nachtrust
+1699#126_1358,1920,9,True,luidkeels; nachtruit
+1699#126_1359,1920,9,False,lawijk
+1699#126_1625,1920,9,False,nachtegaal
+1699#126_1644,1920,9,True,luidkeels
+1699#126_1645,1920,9,False,nachtrumoer
+1699#126_1728,1920,9,False,lifrrucht
+1699#126_1761,1920,9,False,berucht
+1699#126_1847,1920,9,False,nachtgee
+1700#10_37,1911,9,False,gerucht
+1700#10_63,1911,9,False,gerucht
+1700#10_82,1911,9,True,nachtegaal
+1700#10_83,1911,9,False,nachtegaal
+1700#10_85,1911,9,False,nachtgerucht
+1700#10_86,1911,9,True,nachtgerucht; nachtrast; stoorde
+1700#10_108,1911,9,False,schreeuwde
+1700#10_118,1911,9,False,nachtgerucht
+1700#10_261,1911,9,True,luidkeelste; nachtgrrcht; stoorde
+1700#10_264,1911,9,False,luidkeels
+1700#10_299,1911,9,False,nachtgerucht; nachtrest; stoorde
+1700#10_303,1911,9,False,gerucht
+1700#10_386,1911,9,False,krakeel
+1700#10_428,1911,9,False,lawijd
+1700#10_430,1911,9,False,lawaai
+1700#10_449,1911,9,False,nachtgerucht
+1700#10_450,1911,9,True,hudkeels
+1700#10_512,1911,9,False,luidkeels
+1700#10_593,1911,9,False,nachtgerucht
+1700#10_777,1911,9,True,gerucht
+1700#10_979,1911,9,False,nachtrust; stoorde
+1700#10_1017,1911,9,True,gerucht
+1700#10_1066,1911,9,False,lawaai
+1700#10_1155,1911,9,False,gerucht
+1700#10_1164,1911,9,False,hoordegerucht
+1700#10_1322,1911,9,True,gerucht
+1700#10_1428,1911,9,False,nachtgerucht
+1700#11_78,1910,9,True,gerucht
+1700#11_89,1910,9,False,gestoord
+1700#11_133,1910,9,False,lawijd
+1700#11_162,1910,9,False,welgerucht
+1700#11_246,1910,9,True,gestoord; nachtwst
+1700#11_247,1910,9,False,nachtrumoer
+1700#11_249,1910,9,True,nachtrust
+1700#11_271,1910,9,False,nachtgerucht
+1700#11_310,1910,9,False,gerucht; rucht
+1700#11_314,1910,9,False,ruzi
+1700#11_359,1910,9,False,nachtgerucht; nachtrumoer
+1700#11_360,1910,9,True,luidkeels; nachtrust
+1700#11_381,1910,9,True,nachtgerucht; nachtrust
+1700#11_410,1910,9,False,gerucht
+1700#11_416,1910,9,True,nachtgeruckt; nachtrust; stoorde
+1700#11_507,1910,9,False,gerucht; lawaai
+1700#11_515,1910,9,True,luidop
+1700#11_523,1910,9,True,nachtgeruch; nachtgerucht; nachtrust; stoorde
+1700#11_527,1910,9,False,kabaal
+1700#11_535,1910,9,False,schreeuwen
+1700#11_544,1910,9,False,lawaai
+1700#11_599,1910,9,False,gerucht
+1700#11_605,1910,9,False,nachtrumoer
+1700#11_607,1910,9,False,nachtrust; stoorde
+1700#11_625,1910,9,False,stoorde
+1700#11_628,1910,9,False,schreeuwer
+1700#11_706,1910,9,False,lawaai
+1700#11_858,1910,9,False,nachtgerucht
+1700#11_870,1910,9,False,lawp
+1700#11_906,1910,9,True,luidkeels; nachtrust; stoorde
+1700#11_907,1910,9,False,rumoer
+1700#11_973,1910,9,False,schreeuwde
+1700#11_989,1910,9,False,lawaai
+1700#11_991,1910,9,False,rumoer
+1700#11_992,1910,9,True,gerucht
+1700#11_1018,1910,9,False,gerucht
+1700#11_1019,1910,9,False,gerucht
+1700#11_1160,1910,9,False,gerucht
+1700#11_1193,1910,9,False,gerucht
+1700#11_1227,1910,9,False,gerucht; lawaai
+1700#11_1309,1910,9,True,nachtegaal
+1700#11_1381,1910,9,False,gerucht
+1700#11_1465,1910,9,False,gerucht
+1700#11_1477,1910,9,False,gerucht
+1700#11_1533,1910,9,False,gerucht
+1700#13_100,1912,9,False,gerucht
+1700#13_183,1912,9,True,kabaal
+1700#13_195,1912,9,False,neobaal
+1700#13_346,1912,9,True,gerucht
+1700#13_365,1912,9,False,nachtgeveard
+1700#13_367,1912,9,False,lawaai
+1700#13_522,1912,9,False,nachtgerucht; nachtrest
+1700#13_599,1912,9,False,terucht
+1700#13_635,1912,9,False,nachtgerucht; nachtrust; stoorde
+1700#13_724,1912,9,False,nachtgerucht
+1700#13_725,1912,9,False,nachtrust; stoorde
+1700#13_735,1912,9,False,nachtgerucht
+1700#13_736,1912,9,False,nachtrust
+1700#13_739,1912,9,True,luidkeels; nachtgerucht; nachtrust
+1700#13_762,1912,9,True,lawaai
+1700#13_771,1912,9,True,habaal
+1700#13_775,1912,9,False,kabaal
+1700#13_925,1912,9,False,grucht
+1700#13_1036,1912,9,False,nachtgerucht
+1700#13_1042,1912,9,False,gerucht; rucht
+1700#13_1139,1912,9,False,nachtgerucht
+1700#13_1165,1912,9,False,lawaai
+1700#13_1340,1912,9,False,nachtgerucht
+1700#13_1341,1912,9,False,luidruchtige
+1700#13_1423,1912,9,False,gerucht
+1700#13_1463,1912,9,False,lawaai
+1700#13_1473,1912,9,False,gerucht
+1700#13_1587,1912,9,True,gerucht
+1700#13_1644,1912,9,False,nachtgerucht
+1700#13_1646,1912,9,False,nachtgerucht
+1700#13_1647,1912,9,False,nachtgerucht
+1700#15_121,1913,9,True,nachtgerucht; nachtrust; stoorde
+1700#15_274,1913,9,False,gerucht; gestoord; nachtgerucht
+1700#15_405,1913,9,False,schreeuwen
+1700#15_421,1913,9,False,lawyd
+1700#15_457,1913,9,False,gerucht
+1700#15_543,1913,9,False,lawans
+1700#15_569,1913,9,False,tawijd
+1700#15_582,1913,9,False,schreeuwen
+1700#15_620,1913,9,True,nachtrust; stoorde
+1700#15_621,1913,9,False,nachtgerucht
+1700#15_746,1913,9,False,lawijd
+1700#15_790,1913,9,False,lawijd; schreeuwen
+1700#15_932,1913,9,False,nachtgerucht
+1700#15_933,1913,9,False,ludkeels; nachtrust
+1700#15_1051,1913,9,False,nachtrumoer
+1700#15_1052,1913,9,True,luidkeels; nachtrust; stoorde
+1700#15_1102,1913,9,False,lawyd
+1700#15_1193,1913,9,False,nachtrust
+1700#16_99,1913,9,True,luidop; stoorde
+1700#16_189,1913,9,False,lawaai
+1700#16_194,1913,9,False,gerucht
+1700#16_273,1913,9,False,gerucht; nachtgerucht; nachtrus
+1700#16_285,1913,9,True,gerucht
+1700#16_344,1913,9,True,luidheels; nachtgerucht; nachtrust; stoorde
+1700#16_420,1913,9,False,rucht
+1700#16_422,1913,9,True,nachtge; nachtrust
+1700#16_485,1913,9,False,gestoord
+1700#16_500,1913,9,True,gestoord; nachtramoer
+1700#16_749,1913,9,False,nachtgewaad
+1700#16_757,1913,9,False,lawg
+1700#16_830,1913,9,False,gerucht
+1700#16_902,1913,9,False,nachtgerucs
+1700#16_946,1913,9,False,gerucht
+1700#16_966,1913,9,False,stoorde
+1700#16_1117,1913,9,False,nachtgerucht
+1700#16_1118,1913,9,True,luidkeels
+1700#16_1270,1913,9,False,nachtrumoer
+1700#16_1389,1913,9,False,nachtgerucht
+1700#16_1413,1913,9,False,nachtgeruckt
+1700#17_113,1912,9,False,gerucht
+1700#17_284,1912,9,False,habaal
+1700#17_306,1912,9,False,gerucht
+1700#17_307,1912,9,False,nachtgerucht
+1700#17_310,1912,9,False,nachtrust
+1700#17_493,1912,9,True,schreeuwde
+1700#17_649,1912,9,False,luidkeels; nachtrunver; nachtrus; stoorde
+1700#17_700,1912,9,False,gerucht
+1700#17_777,1912,9,False,rumaer; rumoer
+1700#17_816,1912,9,False,ramoer
+1700#17_851,1912,9,True,schreeuwe
+1700#17_975,1912,9,False,luidkeels; nachtgerucht; nachtrust
+1700#17_1153,1912,9,False,schreeuwde
+1700#17_1167,1912,9,False,nachtrumoer
+1700#17_1168,1912,9,True,luidkeels; nachtruit
+1700#17_1206,1912,9,False,gerucht
+1700#17_1261,1912,9,False,nachtrumoer
+1700#17_1263,1912,9,True,nachtrust; stoorde
+1700#17_1265,1912,9,True,nachtrust
+1700#17_1267,1912,9,True,nachtrumoer; nachtrust; stoorde
+1700#17_1323,1912,9,False,nachtgerucht
+1700#17_1324,1912,9,False,nachtgerucht; nachtrust
+1700#17_1461,1912,9,True,luidkeels; nachtrumoer; stoorde
+1700#17_1528,1912,9,False,luidkecl; stoorde
+1700#17_1529,1912,9,False,nachtgerucht
+1700#17_1591,1912,9,False,nachtgerckt; nachtrumoer
+1700#17_1608,1912,9,False,nachtrumoer
+1700#17_1629,1912,9,False,nachtrumoer
+1700#17_1631,1912,9,False,nachtrumoer
+1700#2_111,1910,9,False,lawaar
+1700#2_381,1910,9,True,luidkeels; nachtrust; schreeuwen; stoorde
+1700#2_447,1910,9,True,luidkeels; nachtgerucht; stoorde
+1700#2_768,1910,9,False,lawaai
+1700#2_816,1910,9,False,geruch
+1700#2_844,1910,9,True,kabaal
+1700#2_850,1910,9,True,nachtruit; nachtrumoen; stoorde
+1700#2_1126,1910,9,False,nachtgemekstiuse
+1700#2_1349,1910,9,False,gestoord
+1700#2_1444,1910,9,False,gerucht
+1700#2_1666,1910,9,False,nachtgerucht
+1700#2_1667,1910,9,True,nachtrust; stoorde
+1700#2_1792,1910,9,False,nachtgencht
+1700#3_17,1911,9,True,luidkeels; nachtgerucht; nachtrust; stoorde
+1700#3_29,1911,9,False,gerucht
+1700#3_57,1911,9,False,gerucht
+1700#3_99,1911,9,False,gestoord
+1700#3_117,1911,9,True,gerucht; nachtlamp
+1700#3_123,1911,9,True,luidop
+1700#3_136,1911,9,False,schreeuwede
+1700#3_197,1911,9,False,gerucht
+1700#3_250,1911,9,False,gerucht
+1700#3_281,1911,9,False,rucht
+1700#3_285,1911,9,False,lawaai
+1700#3_290,1911,9,False,nachtrust
+1700#3_412,1911,9,False,lawaai
+1700#3_448,1911,9,False,lawaai
+1700#3_497,1911,9,False,gerucht
+1700#3_530,1911,9,True,nachtrest; nachtrumoer; stoorde
+1700#3_531,1911,9,False,lawaai
+1700#3_544,1911,9,True,gerucht; luidkeels; nachtrust
+1700#3_549,1911,9,True,gerucht; nachtrust
+1700#3_568,1911,9,False,nachtgerucht
+1700#3_570,1911,9,True,gerucht; nachtgerucht
+1700#3_575,1911,9,False,gerucht; geruchtgehoort
+1700#3_657,1911,9,True,nachtraat; stoorda
+1700#3_672,1911,9,False,luidkeels; nachtgerucht; nachtrust
+1700#3_702,1911,9,False,lawijd
+1700#3_790,1911,9,False,schreeuwen
+1700#3_824,1911,9,False,lawijd
+1700#3_849,1911,9,False,gerucht
+1700#3_961,1911,9,True,gerucht; nachtrust
+1700#3_996,1911,9,True,gerucht; nachtgercht; nachtgerekt; nachtgerucht; nachtgurecht; rucht
+1700#3_998,1911,9,False,nachtgeruckt
+1700#3_999,1911,9,False,lawaai
+1700#3_1010,1911,9,True,buwijd
+1700#3_1137,1911,9,False,nachtgene
+1700#3_1140,1911,9,False,schreeuwen
+1700#3_1142,1911,9,False,nachtgerucht
+1700#3_1146,1911,9,False,nachtgerucht
+1700#3_1211,1911,9,False,krakeel
+1700#3_1259,1911,9,True,luidkeels; nachtrucht
+1700#3_1275,1911,9,False,nachtegaal
+1700#3_1305,1911,9,False,gerucht
+1700#3_1312,1911,9,False,kabaal
+1700#3_1314,1911,9,False,lawij; lawijd
+1700#3_1341,1911,9,False,gerucht
+1700#3_1364,1911,9,False,nachtgerucht
+1700#4_11,1913,9,False,nachtrumoer
+1700#4_150,1913,9,False,nachtlicht
+1700#4_151,1913,9,False,nachtlicht
+1700#4_212,1913,9,False,lawaai
+1700#4_390,1913,9,False,krakeel
+1700#4_557,1913,9,True,nachtgewaad
+1700#4_562,1913,9,False,nachtgercht
+1700#4_563,1913,9,False,nachtrust
+1700#4_988,1913,9,True,gerucht
+1700#4_989,1913,9,False,gerucht
+1700#4_1232,1913,9,False,nachtrumoer
+1700#4_1233,1913,9,False,nachtreermoer; nachtrust
+1700#4_1252,1913,9,False,nachtgewaad
+1700#4_1285,1913,9,False,luidkeels
+1700#4_1288,1913,9,False,luidkeels; nachtruist; stoorde
+1700#4_1348,1913,9,False,lawaai
+1700#4_1349,1913,9,False,lawaai
+1700#4_1372,1913,9,False,stoorde
+1700#4_1415,1913,9,False,nachtgerucht
+1700#5_182,1940,9,False,kabaal; nachtkabaal; stoorde
+1700#5_287,1940,9,False,luidkeels
+1700#5_521,1940,9,False,nachtrust; rucht
+1700#5_679,1940,9,False,nachtlawijd
+1700#5_866,1940,9,False,stoorde
+450#58_6,1891,1,True,luidkeels; schreeuwen; stoorde
+450#58_44,1891,1,True,stoorde
+450#58_48,1891,1,False,nachtrust; stoorde
+450#58_109,1891,1,True,krakeeler; lawijd; nachtrust; stoorde
+450#58_114,1891,1,True,luidkeels; nachtrust; stoorde
+450#58_121,1891,1,True,gerucht
+450#58_124,1891,1,True,nachtrust; stoorde
+450#58_180,1891,1,True,luidkeels; nachtrust; schreeuwen; stoorde
+450#58_181,1891,1,True,lawijd
+450#58_185,1891,1,True,lawijt
+450#58_247,1891,1,True,nachtrust; stoorde
+450#58_264,1891,1,True,nachtrest
+450#58_266,1891,1,True,luidkeels; nachtrust
+450#58_269,1891,1,False,nachtrust
+450#58_322,1891,1,True,luidkeels; schreeuwen; stoorde
+450#58_387,1891,1,True,luidkeels; nachtrust; schreeuwen; stoorde
+450#58_394,1891,1,True,luidkeels; stoorde
+450#58_407,1891,1,False,luidkeels; stoorde
+450#58_419,1891,1,False,luidkeels
+450#58_474,1891,1,True,laweyd
+450#58_514,1891,1,False,luidkeels
+450#58_516,1891,1,True,luidkeels; stoorde
+450#58_531,1891,1,True,luidkeels; nachtrust; schreeuwen; stoorde
+450#58_559,1891,1,True,nachtrust; stoorde
+450#58_588,1891,1,True,luidkeels; nachtrust; stoorde
+450#58_610,1891,1,True,lawijd
+450#58_611,1891,1,False,stoorde
+450#58_654,1891,1,False,nachtrust; stoorde
+450#58_667,1891,1,True,lawijd
+450#58_681,1891,1,False,luidkeels
+450#58_709,1891,1,False,lawijd
+450#58_738,1891,1,True,gestoord; nachtrust
+450#58_772,1891,1,True,stoorde
+450#58_773,1891,1,False,stoorde
+450#58_827,1891,1,False,gerucht
+450#58_832,1891,1,False,stoorde
+450#58_835,1891,1,True,nachtrust
+450#58_839,1891,1,False,luidkeels
+450#58_847,1891,1,False,aldaarsluidkeels; nachtrust; stoorde
+450#58_879,1891,1,True,lawijt
+450#58_917,1891,1,True,lawijt
+450#58_937,1891,1,True,luidkeels; nachtrust; schreeuwen
+450#58_942,1891,1,True,nachtrust; stoorde
+450#58_975,1891,1,True,lawijt; stoorde
+450#58_1000,1891,1,False,luidkeels; stoorde
+450#58_1050,1891,1,True,luidkeels; nachtrust
+450#58_1081,1891,1,False,nachtrust; stoorde
+450#58_1101,1891,1,True,gerucht
+450#58_1108,1891,1,True,gerucht
+450#58_1119,1891,1,True,lawijt
+450#58_1139,1891,1,True,luidkeels; stoorde
+450#58_1156,1891,1,True,nachtrust; stoorde
+450#58_1175,1891,1,False,luidkeels; nachtrust; stoorde
+450#58_1193,1891,1,True,lawijt
+450#58_1226,1891,1,True,stoorde
+450#58_1236,1891,1,False,luidkeels
+450#58_1268,1891,1,True,krakeel
+450#58_1272,1891,1,True,nachtrust; stoorde
+450#58_1294,1891,1,True,luidkeels
+450#58_1347,1891,1,True,lawijd
+450#58_1348,1891,1,True,nachtrust; stoorde
+450#58_1386,1891,1,True,schreeuwen
+450#58_1404,1891,1,True,luitkeels
+450#58_1408,1891,1,True,luidkeels; schreeuwen
+450#58_1427,1891,1,True,nachtrust; stoorde
+450#58_1476,1891,1,True,stoorde
+450#58_1523,1891,1,True,nachtwust
+450#58_1555,1891,1,True,nachtruft
+450#58_1597,1891,1,True,nachtlawgd
+450#58_1674,1891,1,True,luidkeels; nachtrast; stoorde
+450#58_1690,1891,1,False,nachtlawijd
+450#58_1726,1891,1,True,nachtrust; stoorde
+450#58_1746,1891,1,False,lawijt
+450#58_1748,1891,1,True,nachtrust; stoorde
+450#58_1757,1891,1,True,nachtrust; stoorde
+450#58_1760,1891,1,False,stoorde
+450#58_1761,1891,1,False,luidkeils; nachtwst; stoorde
+450#58_1768,1891,1,True,nachtlawijd; nachtrust; stoorde
+450#58_1775,1891,1,True,luidkeels; nachtrust; stoorde
+450#58_1832,1891,1,False,luidkeels
+450#58_1849,1891,1,True,stoorde
+450#58_1874,1891,1,True,nachtrust; stoorde
+450#58_1877,1891,1,False,verucht
+450#58_1951,1891,1,True,luidkeels
+450#58_1952,1891,1,True,luidkeels; schreeuwen
+450#58_1966,1891,1,True,luidkeels; nachtrust; stoorde
+450#58_1987,1891,1,False,nachtrust
+450#58_2003,1891,1,False,luidkeels; nachtrust; stoorde
+450#58_2004,1891,1,True,luidkeels; nachtrust; stoorde
+450#58_2090,1891,1,True,nachtrust
+450#58_2135,1891,1,True,nachtrumoer
+450#58_2163,1891,1,True,nachtrust; stoorde
+450#58_2176,1891,1,True,nachtlawyd
+450#58_2191,1891,1,True,nachtegaal
+450#58_2217,1891,1,False,nachtrust; stoorde
+450#58_2218,1891,1,False,luidkeels; stoorde
+450#58_2234,1891,1,True,lawijt
+450#58_2255,1891,1,True,nachtrust; stoorde
+450#58_2256,1891,1,True,nachtrumoer
+450#58_2267,1891,1,True,luidkeels
+731#1586_892,1877,3,False,lawid
+731#1586_1117,1877,3,False,nachtlicht
+731#1586_1444,1877,3,True,rumaer
+731#1586_1478,1877,3,True,schreeuwde
+731#1586_1560,1877,3,True,gestoord
+731#1586_1661,1877,3,True,gerucht
+731#1587_358,1877,3,False,gerucht
+731#1587_464,1877,3,False,lawijd
+731#1587_543,1877,3,False,lawyjd
+731#1587_578,1877,3,False,lawijd
+731#1587_583,1877,3,True,ramoer
+731#1587_851,1877,3,True,nachtrust
+731#1587_875,1877,3,True,lawid
+731#1587_954,1877,3,True,stoorde
+731#1587_1048,1877,3,True,krakeel
+731#1587_1050,1877,3,True,lawit
+731#1587_1059,1877,3,False,lawyjt
+731#1587_1120,1877,3,True,lawyt
+731#1587_1222,1877,3,False,schreeuwe
+731#1587_1273,1877,3,True,rumoer
+731#1587_1316,1877,3,False,luidkeels
+731#1587_1319,1877,3,True,stoorde
+731#1587_1320,1877,3,False,lawyd
+731#1587_1372,1877,3,False,luidruchtigde
+731#1587_1396,1877,3,False,tawijt
+731#1587_1405,1877,3,True,lawyt
+731#1587_1447,1877,3,True,lawit
+731#1587_1541,1877,3,False,nachtrumaer
+731#1587_1560,1877,3,True,lawyt
+731#1587_1587,1877,3,True,lawyjt
+731#1587_1613,1877,3,True,lawyd
+731#1587_1627,1877,3,False,lawijdtggehoord
+731#1587_1636,1877,3,True,nachtlawyt
+731#1587_1722,1877,3,False,luidruchtige
+731#1588_50,1878,5,False,lawyd
+731#1588_72,1878,5,True,machtrust
+731#1588_81,1878,5,True,luidkeels; nachtruitstooond
+731#1588_134,1878,5,True,nachtstoornis
+731#1588_204,1878,5,False,nachtlawijd
+731#1588_213,1878,5,False,pbaal
+731#1588_243,1878,5,True,nachtrust
+731#1588_270,1878,5,True,gerucht
+731#1588_285,1878,5,False,schreeuwen
+731#1588_355,1878,5,False,nachtstoornes
+731#1588_373,1878,5,True,gbaal
+731#1588_384,1878,5,False,nachtegaal
+731#1588_398,1878,5,False,nachtstoorme
+731#1588_422,1878,5,True,nachtrustoonis
+731#1588_488,1878,5,False,kawijt
+731#1588_513,1878,5,False,nachtlavyd
+731#1588_517,1878,5,False,lawijd
+731#1588_583,1878,5,False,lawyd
+731#1588_638,1878,5,True,nachtlawijd
+731#1588_663,1878,5,False,flawyd
+731#1588_691,1878,5,False,nachtruststoonn
+731#1588_843,1878,5,True,nachtlangd
+731#1588_869,1878,5,True,nachtlawijd
+731#1588_882,1878,5,True,lawijd
+731#1588_903,1878,5,False,lawyd
+731#1588_1005,1878,5,True,lawvijd
+731#1588_1040,1878,5,False,nachtrumoer
+731#1588_1041,1878,5,False,nachtrumoer
+731#1588_1138,1878,5,False,luidkeels; stoorde
+731#1588_1171,1878,5,False,gestoord
+731#1588_1195,1878,5,False,nachtlawijden
+731#1588_1259,1878,5,True,schreeuwen
+731#1588_1262,1878,5,False,gestoord; nachtrust
+731#1588_1268,1878,5,False,nachtrumoer
+731#1588_1278,1878,5,True,nachtrust; stoorde
+731#1588_1308,1878,5,False,gestoord; nachtrust
+731#1588_1337,1878,5,True,nachtrumoer
+731#1588_1338,1878,5,False,achtlawij; nachtlawijd; nachtruststoornis
+731#1588_1372,1878,5,False,nachtlawijd
+731#1588_1398,1878,5,False,lawijd
+731#1588_1410,1878,5,False,lawijd
+731#1588_1434,1878,5,False,nachtruststoornis
+731#1588_1484,1878,5,False,krakeel; nachtstoor
+731#1588_1499,1878,5,False,nachtruststoornis
+731#1588_1519,1878,5,False,gestoord; nachtrnst
+731#1588_1532,1878,5,False,nachtrust
+731#1588_1561,1878,5,False,luidkeels; nachtrus
+731#1588_1564,1878,5,False,nachtrust
+731#1588_1600,1878,5,True,nachtrumoer
+731#1588_1601,1878,5,False,nachtrumaer
+731#1588_1628,1878,5,True,nachtlawijd; nachtlawyd
+731#1588_1648,1878,5,False,nachtruststoornis
+731#1588_1661,1878,5,False,nachtlangd
+731#1588_1688,1878,5,False,nachtruststoornis
+731#1588_1699,1878,5,False,nachtstoor
+731#1588_1705,1878,5,False,nachtruststoornis
+731#1588_1739,1878,5,False,nachtruststoornis
+731#1588_1745,1878,5,False,nachtstoornis
+731#1588_1769,1878,5,False,luidkeels; nachtrust; stoorde
+731#1588_1805,1878,5,True,hudkeels; nachtruststoonde
+731#1588_1809,1878,5,False,nachtlawid
+731#1588_1899,1878,5,False,nachtstoornis
+731#1588_1900,1878,5,False,nachtstoornis
+731#1588_1912,1878,5,True,nachtrust
+731#1588_1928,1878,5,False,gestoord; nachtrust
+731#1588_1948,1878,5,False,nachtruststoornis
+731#1588_1970,1878,5,True,nachtlangd
+731#1588_1989,1878,5,True,nachtruststoornis
+731#1589_49,1876,5,False,nachtruststarin
+731#1589_95,1876,5,False,nachtlawgt
+731#1589_115,1876,5,False,nachtruitstaarnis; nachtw
+731#1589_126,1876,5,True,lawyt
+731#1589_140,1876,5,False,nachtrust
+731#1589_141,1876,5,True,lawyt
+731#1589_150,1876,5,True,nachtlawijd
+731#1589_188,1876,5,False,nachtruit
+731#1589_204,1876,5,False,nachtruist
+731#1589_205,1876,5,True,nachtrustaaten
+731#1589_217,1876,5,True,gehoordengezin; lawyt; nachtlowyt
+731#1589_238,1876,5,False,nachtruststovenis
+731#1589_246,1876,5,True,nachtlawijt
+731#1589_256,1876,5,True,nachtlawijd
+731#1589_262,1876,5,True,nachtlawdyt; nachtlawgh
+731#1589_263,1876,5,False,nachtruststooms
+731#1589_267,1876,5,False,nachtriest
+731#1589_274,1876,5,True,stoorde
+731#1589_278,1876,5,True,nachtruststaarnis
+731#1589_280,1876,5,False,nachtrusts
+731#1589_296,1876,5,False,nachtlawyt
+731#1589_306,1876,5,False,nachtruste
+731#1589_310,1876,5,False,nachtlawijd
+731#1589_312,1876,5,False,nachtlaveyt
+731#1589_313,1876,5,True,nachtruststaatnes
+731#1589_319,1876,5,True,nachtruststaarnis
+731#1589_339,1876,5,True,nachtlawept; nachtlawgt
+731#1589_347,1876,5,False,lawyt; luidkens
+731#1589_384,1876,5,False,inwoonesstoorden
+731#1589_406,1876,5,True,nachtruststoarnis; nachtruststoormes
+731#1589_420,1876,5,True,nachtruststoornes
+731#1589_428,1876,5,False,nachtrastdoar
+731#1589_439,1876,5,False,nachtruststoornis
+731#1589_464,1876,5,True,lawijs; nachtlawijs; nachtrust
+731#1589_511,1876,5,True,lawijd
+731#1589_512,1876,5,False,nachtruststoarnis
+731#1589_515,1876,5,False,luiskeels; nachtrust
+731#1589_521,1876,5,False,enlawijd
+731#1589_536,1876,5,False,nachtegaal
+731#1589_577,1876,5,False,luidkeels; nachtlawyd
+731#1589_579,1876,5,False,nachtruitstoamnis
+731#1589_590,1876,5,True,gestoord
+731#1589_613,1876,5,True,nachtruststoarne
+731#1589_618,1876,5,False,lawijd; luidkeels
+731#1589_624,1876,5,True,luidkeels; nachtlawyd
+731#1589_646,1876,5,False,nachtlaweyd
+731#1589_658,1876,5,False,lawijn
+731#1589_671,1876,5,False,aldaarluidkeels; stoorde
+731#1589_685,1876,5,False,nachtruststaarwas
+731#1589_686,1876,5,True,nachtuakstooenis
+731#1589_718,1876,5,False,nachtruststainis
+731#1589_724,1876,5,False,nachtrust
+731#1589_725,1876,5,False,nachtruststaarnes
+731#1589_729,1876,5,False,nachtlangd; nachtlawijd
+731#1589_752,1876,5,False,nachtrusts
+731#1589_756,1876,5,False,stoorde
+731#1589_767,1876,5,False,nachtlawyd
+731#1589_782,1876,5,False,lawijd
+731#1589_792,1876,5,False,luidkeels
+731#1589_809,1876,5,False,nachtlawyjd
+731#1589_811,1876,5,True,nachtlawyd; nachtlewijd
+731#1589_820,1876,5,False,gerucht
+731#1589_822,1876,5,False,gerucht
+731#1589_855,1876,5,False,nachtlawijs
+731#1589_856,1876,5,False,nachtlawijd
+731#1589_860,1876,5,False,nachtlut; nachtruststoarnis
+731#1589_898,1876,5,True,nachtreststoorins
+731#1589_902,1876,5,True,gestoord
+731#1589_947,1876,5,False,enlawijd; stoorde
+731#1589_975,1876,5,False,bawijd
+731#1589_989,1876,5,False,nachtlandyt; nachtruststoorwos
+731#1589_1001,1876,5,True,nachtrust
+731#1589_1031,1876,5,False,lawijd
+731#1589_1044,1876,5,False,nachtrust
+731#1589_1052,1876,5,True,lawijt; nachtruststaarnes
+731#1589_1063,1876,5,True,gbaal
+731#1589_1070,1876,5,False,lawerjt
+731#1589_1095,1876,5,False,aldaarluidkeels; stoorde
+731#1589_1121,1876,5,True,nachtruit
+731#1589_1127,1876,5,True,nachtrust; stoorde
+731#1589_1131,1876,5,False,nachtruststaat
+731#1589_1142,1876,5,False,luiskeels; luitkeels
+731#1589_1150,1876,5,False,nachtuststooent
+731#1589_1179,1876,5,False,nachtstoornis
+731#1589_1212,1876,5,False,nachtruststoom
+731#1589_1217,1876,5,False,stoorde
+731#1589_1265,1876,5,False,nachtstoornis
+731#1589_1270,1876,5,True,nachtlawg
+731#1589_1284,1876,5,False,lawyt
+731#1589_1310,1876,5,False,lawijs
+731#1589_1342,1876,5,True,lawyd
+731#1590_16,1878,3,True,nachtrawyt
+731#1590_41,1878,3,True,lawijd; lawyd
+731#1590_87,1878,3,False,lawyjd; schreeuwen
+731#1590_92,1878,3,False,bawijt; laweyt
+731#1590_156,1878,3,True,nachtlgwid
+731#1590_157,1878,3,False,luidkeels
+731#1590_158,1878,3,True,luidkeels; nachtlawid
+731#1590_404,1878,3,True,luidkeels
+731#1590_439,1878,3,True,rumoer
+731#1590_522,1878,3,False,luidkeels
+731#1590_529,1878,3,True,ruststoorders
+731#1590_536,1878,3,True,luidkeels
+731#1590_557,1878,3,False,lawyjd
+731#1590_650,1878,3,True,gestoord
+731#1590_707,1878,3,True,nachtlawyjd
+731#1590_708,1878,3,True,nachtlawijd
+731#1590_758,1878,3,True,gestoord; rumoer
+731#1590_982,1878,3,False,nachtegaal
+731#1590_992,1878,3,True,lawede
+731#1590_1037,1878,3,False,luidkeels
+731#1590_1135,1878,3,True,luidkeels
+731#1590_1146,1878,3,True,lawyjd; luidkeels
+731#1590_1178,1878,3,False,nachtrust
+731#1590_1209,1878,3,True,stoorde
+731#1590_1213,1878,3,True,gerucht; lawijd; nachtgedruis
+731#1590_1281,1878,3,False,gerucht; nachtlawid; schreeuwen
+731#1590_1286,1878,3,False,nachtrust
+731#1590_1289,1878,3,False,luidkeels
+731#1590_1322,1878,3,True,lawyd
+731#1590_1358,1878,3,False,schreeuwen
+731#1590_1527,1878,3,True,lawijd; lawyd; nachtrust
+731#1590_1549,1878,3,True,luidskeels; schreeuwde
+731#1590_1561,1878,3,False,lawit
+731#1590_1643,1878,3,True,luidkeels
+731#1590_1731,1878,3,True,luidkeels
+731#1592_6,1879,1,True,luidkeels
+731#1592_76,1879,1,True,laweyd
+731#1592_183,1879,1,False,laweit
+731#1592_289,1879,1,True,lawijdt
+731#1592_426,1879,1,True,luidkeels; stoorde
+731#1592_741,1879,1,True,luidkeels; stoorde
+731#1592_743,1879,1,False,gestoord
+731#1592_778,1879,1,False,lawrid
+731#1592_801,1879,1,False,luidop
+731#1592_928,1879,1,False,lawyjt; nachtrust
+731#1592_929,1879,1,False,luidkets
+731#1592_972,1879,1,True,lawijd
+731#1592_1071,1879,1,False,nachtrust; stoorde
+731#1592_1072,1879,1,True,nachtrust
+731#1592_1087,1879,1,True,nachtrust
+731#1592_1175,1879,1,True,luidkeels
+731#1592_1187,1879,1,True,luidkeels; nachtlawijd; nachtrust
+731#1592_1191,1879,1,False,luidkeels; nachtlawijd; nachtrust
+731#1592_1215,1879,1,True,luidkeels
+731#1592_1357,1879,1,True,stoordde
+731#1592_1492,1879,1,False,nachtrust
+731#1592_1504,1879,1,False,gestoord; nachtrist
+731#1593_27,1880,3,True,luidkeels; nachtlawyd
+731#1593_52,1880,3,False,luidkeels
+731#1593_60,1880,3,True,schreeuwen
+731#1593_86,1880,3,True,luidkeels; samoer
+731#1593_90,1880,3,False,luidkeels; stoorde
+731#1593_91,1880,3,True,nachtlant
+731#1593_92,1880,3,True,stoorde
+731#1593_93,1880,3,True,stoorde
+731#1593_106,1880,3,False,nachtlavyd
+731#1593_131,1880,3,False,lawyd
+731#1593_174,1880,3,True,lawijjers; lawit
+731#1593_207,1880,3,False,luitkeels
+731#1593_283,1880,3,False,gerucht
+731#1593_310,1880,3,False,lawyd; rumoer
+731#1593_349,1880,3,True,nachtramoer
+731#1593_387,1880,3,False,nachtrust; schreeuwen
+731#1593_424,1880,3,True,gerucht
+731#1593_452,1880,3,True,lawijd
+731#1593_498,1880,3,True,lawyjd
+731#1593_521,1880,3,False,luidkeels; stoorde
+731#1593_614,1880,3,True,luidkeels; nachtramoer
+731#1593_626,1880,3,True,luidkeels; nachtrust; stoorde
+731#1593_679,1880,3,True,lawyjd
+731#1593_819,1880,3,True,luidkeels; nachtramoer
+731#1593_934,1880,3,True,lawyd
+731#1593_978,1880,3,False,luidkeels; nachtliwijt
+731#1593_1019,1880,3,True,gestoord; lawyd
+731#1593_1044,1880,3,True,nachtramoer
+731#1593_1079,1880,3,False,geruchte
+731#1593_1175,1880,3,True,lawijd; nachtrust
+731#1594_91,1880,3,False,geruchten
+731#1594_95,1880,3,False,nachtlawijd; nachtrust; stoorde
+731#1594_177,1880,3,True,nachtramoer
+731#1594_227,1880,3,False,schreeuwde
+731#1594_228,1880,3,True,lawge
+731#1594_229,1880,3,True,luidkeels
+731#1594_231,1880,3,True,lawijd
+731#1594_234,1880,3,False,lawid
+731#1594_236,1880,3,True,gestoord; luwijd; nachtruste; schreeuwen; stoorde
+731#1594_364,1880,3,False,luidskeels; nachtrust
+731#1594_418,1880,3,True,nachtrust; stoorde
+731#1594_419,1880,3,False,lawijd; lawyijt; ruikeels
+731#1594_420,1880,3,False,machtrust; stoorde
+731#1594_573,1880,3,True,namoer
+731#1594_582,1880,3,True,gestoord
+731#1594_593,1880,3,False,gestoord
+731#1594_623,1880,3,True,schreeuwen
+731#1594_799,1880,3,False,gerucht
+731#1594_897,1880,3,False,luidkeels; nachtruststoan
+731#1594_963,1880,3,True,lawij; nachtrumder; ramoer
+731#1594_965,1880,3,False,nachtrust
+731#1594_968,1880,3,True,lawylte
+731#1594_975,1880,3,True,nachtrust
+731#1594_994,1880,3,True,luidkeels; nachtrust
+731#1594_1003,1880,3,False,ruzio
+731#1594_1030,1880,3,True,nachtrust
+731#1594_1091,1880,3,True,nachtlangd
+731#1595_8,1880,3,True,nachtrent
+731#1595_10,1880,3,True,nachtgerucht
+731#1595_154,1880,3,False,lawycft; luidkeels
+731#1595_156,1880,3,False,nachtrust
+731#1595_230,1880,3,False,ramoer
+731#1595_296,1880,3,True,luidskeels; nachtrust; stoorde
+731#1595_313,1880,3,True,lawyd; nachtrust; schreeuwen
+731#1595_344,1880,3,True,luidskeels; nachtrust
+731#1595_351,1880,3,True,luidkeels; nachtlawyd
+731#1595_361,1880,3,False,nachtruit; schreeuwen; stoorde
+731#1595_363,1880,3,False,luidkeels; nachtrust; stoorde
+731#1595_364,1880,3,False,stoorde
+731#1595_418,1880,3,False,nachtruste; schreeuwen; stoorde
+731#1595_419,1880,3,False,stoorde
+731#1595_421,1880,3,False,gestoord; nachtrumoer; schreeuwden
+731#1595_453,1880,3,True,lawijd
+731#1595_563,1880,3,False,luidkeels; nachtrust; stoorde
+731#1595_567,1880,3,False,stoorde
+731#1595_617,1880,3,False,stoorde
+731#1595_632,1880,3,False,krakeelde; nachtrust; stoorde
+731#1595_688,1880,3,True,nachtrust
+731#1595_709,1880,3,False,nachtrust; schreeuwen; stoorde
+731#1595_755,1880,3,True,lawijt; nachtrust
+731#1595_773,1880,3,False,stoorde
+731#1595_777,1880,3,False,stoorde
+731#1595_809,1880,3,True,luidkeels; stoorde
+731#1595_865,1880,3,True,nachtrust
+731#1595_886,1880,3,True,ramoer
+731#1595_898,1880,3,False,schreeuwen
+731#1595_900,1880,3,True,ramoer
+731#1595_906,1880,3,True,nachtrust; schreeuwden
+731#1595_912,1880,3,True,stoorde
+731#1595_944,1880,3,True,stoorde
+731#1595_1068,1880,3,True,nachtrust; stoorde
+731#1595_1089,1880,3,True,lawyt; luidkeels; stoorde
+731#1595_1114,1880,3,False,lawijt; lawyt; stoorde
+731#1595_1132,1880,3,False,luidkeels; nachtrust; schreeuwen; stoorde
+731#1596_5,1881,3,True,stoorde
+731#1596_42,1881,3,True,nachtegaal
+731#1596_65,1881,3,True,stoorde
+731#1596_183,1881,3,True,nachtrust; stoorde
+731#1596_199,1881,3,True,ramoer
+731#1596_269,1881,3,True,luidkeels; nachtrust; stoorde
+731#1596_287,1881,3,True,luidkeels; stoorde
+731#1596_311,1881,3,True,lawyd
+731#1596_313,1881,3,True,nachtlawyjd
+731#1596_314,1881,3,False,lawijt
+731#1596_331,1881,3,True,nachtlowayd; nachtrust
+731#1596_364,1881,3,False,ramoer
+731#1596_366,1881,3,False,nachtrst
+731#1596_446,1881,3,True,luidkeels; nachtruste; stoorde
+731#1596_501,1881,3,False,lawid
+731#1596_513,1881,3,True,nachtlawgd
+731#1596_664,1881,3,False,machtrust; stoorde
+731#1596_677,1881,3,False,stoorde
+731#1596_683,1881,3,True,luidkeels
+731#1596_700,1881,3,True,zamoer
+731#1596_765,1881,3,False,gestoord
+731#1596_766,1881,3,False,luidheels; ruststoorders
+731#1596_803,1881,3,False,luidkeels; nachtrust; stoorde
+731#1596_804,1881,3,False,ramoer
+731#1596_842,1881,3,False,luidkeels
+731#1596_925,1881,3,True,luidkeels; schreeuwen
+731#1596_926,1881,3,False,nachtrust; schreeuwen
+731#1596_927,1881,3,False,luidkeels
+731#1596_939,1881,3,False,luidkeels
+731#1596_944,1881,3,True,gestoord; nachtlawyd; nachtrnst
+731#1596_964,1881,3,True,lawijt; luidheels
+731#1596_996,1881,3,False,luidkeels; nachtrust; stoorde
+731#1596_1005,1881,3,False,lawit; nachtrust; stoorde
+731#1596_1009,1881,3,True,nachtrust; stoorde
+731#1596_1015,1881,3,False,gerucht; stoorde
+731#1596_1042,1881,3,True,luidkeels; nachtrust
+731#1596_1074,1881,3,False,luidkeels
+731#1596_1077,1881,3,True,gestoord
+731#1596_1099,1881,3,False,nachtrust
+731#1596_1108,1881,3,True,nachtrust
+731#1596_1117,1881,3,True,luidkeel
+731#1596_1156,1881,3,False,luidkeels; nachtrust
+731#1596_1159,1881,3,False,luitkeels; nachtruiste; stoorde
+731#1596_1163,1881,3,False,luitkeels
+731#1596_1173,1881,3,True,luidkeels; nachtrust; schreeuwen; stoorde
+731#1597_38,1882,3,True,nachtrust; stoorde
+731#1597_79,1882,3,True,lawyd; stoorde
+731#1597_88,1882,3,True,nachtlawijt
+731#1597_141,1882,3,False,luidkeels
+731#1597_156,1882,3,False,lawijt
+731#1597_186,1882,3,False,nachtrust; stoorde
+731#1597_207,1882,3,False,luitkeels; stoorde
+731#1597_213,1882,3,True,lawijd
+731#1597_255,1882,3,False,tawijt
+731#1597_261,1882,3,True,lawyd
+731#1597_266,1882,3,False,bawijt
+731#1597_417,1882,3,True,schreeuweman
+731#1597_428,1882,3,True,nachtlawijk
+731#1597_456,1882,3,True,lawijd; nachtramoer; schreeuwen
+731#1597_457,1882,3,False,lawijd; lawyt
+731#1597_523,1882,3,True,nachtruit
+731#1597_545,1882,3,True,bawijd
+731#1597_563,1882,3,False,stoorde
+731#1597_569,1882,3,True,gerucht
+731#1597_597,1882,3,True,lawgd; nachtrust; stoorde
+731#1597_613,1882,3,False,luidkeels; nachtrust
+731#1597_771,1882,3,False,luidkeels; nachtwust; schreeuwen; stoorde
+731#1597_981,1882,3,True,chtlaweid
+731#1597_990,1882,3,True,nachtruist
+731#1597_992,1882,3,True,lawyt
+731#1597_1005,1882,3,True,nachtrust
+731#1597_1015,1882,3,False,ramoer
+731#1597_1034,1882,3,True,zamoer
+731#1597_1052,1882,3,False,lawijt
+731#1597_1076,1882,3,True,luidkeels; nachtrust; stoorde
+731#1597_1169,1882,3,False,nachtlawgjd; ramoer
+731#1597_1219,1882,3,True,gestoord
+731#1598_30,1882,1,True,lawyt
+731#1598_97,1882,1,True,lawijt; nachtrust
+731#1598_98,1882,1,True,lawyt; stoorde
+731#1598_175,1882,1,False,schreeuwen
+731#1598_217,1882,1,True,stoordde
+731#1598_299,1882,1,True,luidheels; nachtrust; stoorde
+731#1598_300,1882,1,True,nachtrust; stoorde
+731#1598_344,1882,1,True,stoorde
+731#1598_345,1882,1,False,eeviglawijt
+731#1598_347,1882,1,True,nachtruet; stoorde
+731#1598_363,1882,1,True,nachtrust; schreeuwen; stoorde
+731#1598_365,1882,1,True,stoorde
+731#1598_376,1882,1,True,gerucht; schreeuwen; stoorde
+731#1598_411,1882,1,True,gestoord
+731#1598_412,1882,1,True,lawyt
+731#1598_415,1882,1,True,lawijt
+731#1598_428,1882,1,True,luidkeels; nachtrust; stoorde
+731#1598_485,1882,1,True,nochtrust; stoorde
+731#1598_495,1882,1,True,stoorde
+731#1598_496,1882,1,True,stoorde
+731#1598_507,1882,1,True,stoorde
+731#1598_514,1882,1,False,nachtrust
+731#1598_524,1882,1,False,luidkeels; schreeuwen
+731#1598_623,1882,1,True,luidkeels; stoorde
+731#1598_636,1882,1,True,lawyjt
+731#1598_638,1882,1,True,inwoonersstoorde
+731#1598_659,1882,1,True,lawyt; stoorde
+731#1598_676,1882,1,True,lawejt; stoorde
+731#1598_679,1882,1,True,lawgol
+731#1598_688,1882,1,True,lawit
+731#1598_722,1882,1,True,stoorde
+731#1598_750,1882,1,True,lawijt
+731#1598_772,1882,1,False,nachtrust; stoorde
+731#1598_863,1882,1,False,schreeuwen
+731#1598_942,1882,1,False,luidkeels; nachtrust; stoordde
+731#1598_1012,1882,1,False,lawit; nachtrust
+731#1598_1013,1882,1,False,lawit
+731#1598_1066,1882,1,True,nachtrust; stoorde
+731#1598_1221,1882,1,True,luidkeels; nachtrust; schreeuwen; stoorde
+731#1598_1243,1882,1,True,luidkeels; nachtrust
+731#1598_1254,1882,1,True,luitkeels; stoorde
+731#1599_16,1882,3,True,nachtlawydt; stoorde
+731#1599_136,1882,3,False,nachtluwyt
+731#1599_166,1882,3,True,lawijt
+731#1599_183,1882,3,True,lawijt
+731#1599_216,1882,3,True,luidkeels
+731#1599_217,1882,3,True,lawyt; luidkeels
+731#1599_218,1882,3,True,luidkeels; stoorde
+731#1599_220,1882,3,True,nachtrust
+731#1599_222,1882,3,True,gestoord; luidkeels; nachtrust
+731#1599_229,1882,3,True,nachtlawgd
+731#1599_231,1882,3,False,lawyjd
+731#1599_266,1882,3,True,ramoer
+731#1599_335,1882,3,False,nachtrust; stoorde
+731#1599_394,1882,3,False,nachtrust; stoorde
+731#1599_403,1882,3,True,nachtlawijd
+731#1599_419,1882,3,True,machtlawijd
+731#1599_437,1882,3,False,lawijt
+731#1599_440,1882,3,False,luidkeels
+731#1599_448,1882,3,False,nachtrnst
+731#1599_504,1882,3,False,lawyjd
+731#1599_542,1882,3,True,lawijd
+731#1599_640,1882,3,False,nachtrust
+731#1599_749,1882,3,False,lawgt; lawyt; luidskeels; nochtrucht
+731#1599_753,1882,3,False,nachtrust
+731#1599_772,1882,3,True,stoordd
+731#1599_780,1882,3,True,schreeuwen
+731#1599_790,1882,3,True,luidkeel; stoorde
+731#1599_851,1882,3,True,stoorde
+731#1599_951,1882,3,False,stoorde
+731#1599_955,1882,3,False,stoorde
+731#1599_956,1882,3,False,nachtrust; stoorde
+731#1599_970,1882,3,False,gestoord
+731#1599_987,1882,3,False,nachtrust
+731#1599_991,1882,3,True,luidkeels; schreeuwden
+731#1599_993,1882,3,True,nachtrust
+731#1599_994,1882,3,True,luidkeels; nachtrust; schreeuwen
+731#1599_1006,1882,3,True,nachtrust; stoorde
+731#1599_1149,1882,3,False,stoorde
+731#1599_1151,1882,3,False,gestoord; nachtrust
+731#1599_1183,1882,3,True,lawijd
+731#1599_1246,1882,3,False,ramoer; stoorde
+731#1599_1265,1882,3,True,hudkeels; nachtrust; stoorde
+731#1599_1293,1882,3,True,gerucht
+731#1600_17,1883,3,True,ramoer
+731#1600_57,1883,3,False,nachtrust
+731#1600_71,1883,3,True,stoorde
+731#1600_83,1883,3,True,lawijd; nachtluwijd
+731#1600_114,1883,3,True,nachtruist; stoorde
+731#1600_178,1883,3,True,lawijs
+731#1600_190,1883,3,True,nachtrucst
+731#1600_193,1883,3,False,lawild
+731#1600_199,1883,3,False,luidkeels; nachtrust; schreeuwen
+731#1600_214,1883,3,False,luidkeeld
+731#1600_222,1883,3,True,gerucht
+731#1600_242,1883,3,False,ramoer
+731#1600_359,1883,3,False,lawyt; nachtrust; stoorde
+731#1600_360,1883,3,False,stoorde
+731#1600_416,1883,3,False,nachtrust; stoorde
+731#1600_426,1883,3,True,luitkeels
+731#1600_506,1883,3,False,ramoer
+731#1600_530,1883,3,False,lawyd; nachtrent
+731#1600_545,1883,3,True,stoorde
+731#1600_706,1883,3,False,ramoer
+731#1600_716,1883,3,True,luitkeels; nachtrust
+731#1600_795,1883,3,True,lawijt; nachtrust
+731#1600_901,1883,3,False,nachtrust; stoorde
+731#1600_942,1883,3,False,nachtrust
+731#1600_973,1883,3,False,nachtrust; stoorde
+731#1600_1001,1883,3,True,lawit
+731#1600_1036,1883,3,True,stoorde
+731#1600_1065,1883,3,False,stoorde
+731#1600_1067,1883,3,False,nachtrust; stoorde
+731#1600_1090,1883,3,True,luidkeels; schreeuwen
+731#1600_1135,1883,3,False,nachtrust
+731#1600_1163,1883,3,False,ramoer
+731#1600_1230,1883,3,True,gestoord; nachtrus
+731#1601_88,1883,3,True,ramoer
+731#1601_134,1883,3,True,nachtrumoer
+731#1601_141,1883,3,True,gestoord; luidkeels; nachtrust
+731#1601_151,1883,3,True,lawys
+731#1601_203,1883,3,True,gestoord; nachtrust
+731#1601_217,1883,3,False,ramoer
+731#1601_231,1883,3,False,lawijd
+731#1601_242,1883,3,False,nachtrust; ramoer
+731#1601_364,1883,3,True,lawyjt
+731#1601_373,1883,3,False,lawijd
+731#1601_380,1883,3,True,luidkeels; nachtrust
+731#1601_448,1883,3,False,ramoer
+731#1601_537,1883,3,False,laweyd
+731#1601_564,1883,3,False,nachtrust
+731#1601_594,1883,3,False,schreeuwen
+731#1601_644,1883,3,False,krucht
+731#1601_715,1883,3,False,lawijt
+731#1601_716,1883,3,False,lawijt
+731#1601_740,1883,3,False,luidkreets
+731#1601_744,1883,3,True,lawye; nachtlawvijd
+731#1601_826,1883,3,False,lawijt
+731#1601_867,1883,3,False,gerucht
+731#1601_889,1883,3,False,stoorde
+731#1601_936,1883,3,True,gerucht
+731#1601_1048,1883,3,True,lawijt; lawyt
+731#1601_1269,1883,3,False,ramoer
+731#1601_1271,1883,3,False,lawijd
+731#1602_42,1884,3,True,gerucht; stoorde
+731#1602_74,1884,3,True,nachtrnst
+731#1602_80,1884,3,True,gestoord
+731#1602_131,1884,3,True,lawid; nachtlangd
+731#1602_173,1884,3,False,nachtlangd
+731#1602_213,1884,3,False,luidkeels
+731#1602_231,1884,3,False,lawijt
+731#1602_238,1884,3,False,nachtrust
+731#1602_291,1884,3,False,gestoord; nachtrust
+731#1602_325,1884,3,False,nachtrust; stoorde
+731#1602_326,1884,3,True,nachtrust
+731#1602_327,1884,3,False,ramoer
+731#1602_343,1884,3,True,nachtrust
+731#1602_440,1884,3,True,nachtrust
+731#1602_441,1884,3,False,nachtruman; schreeuwen
+731#1602_531,1884,3,False,schreeuwe
+731#1602_618,1884,3,True,lawijt
+731#1602_664,1884,3,True,ramoer
+731#1602_796,1884,3,False,stoorde
+731#1602_824,1884,3,False,lawgd
+731#1602_841,1884,3,True,ramoer
+731#1602_853,1884,3,True,nachtlawijt
+731#1602_954,1884,3,True,nachtramoer
+731#1602_970,1884,3,True,lawyd
+731#1602_972,1884,3,False,nachtrust; stoorde
+731#1603_13,1884,3,True,lawijd; luidkeels
+731#1603_30,1884,3,True,nachtrust; stoorde
+731#1603_50,1884,3,True,gestoord; nachtrust
+731#1603_151,1884,3,True,gestoord; lawogd; nachtruit
+731#1603_252,1884,3,True,gestoord; nachtrust
+731#1603_310,1884,3,False,stoorde
+731#1603_321,1884,3,True,stoorde
+731#1603_342,1884,3,True,nachtlawijt
+731#1603_353,1884,3,True,lawijd
+731#1603_479,1884,3,False,zamoer
+731#1603_493,1884,3,False,zamoer
+731#1603_538,1884,3,False,straatlawijd
+731#1603_643,1884,3,True,ramoer
+731#1603_658,1884,3,True,gestoord; lawijd; nachtrust
+731#1603_687,1884,3,True,lawijt
+731#1603_723,1884,3,False,nachtrust; stoorde
+731#1603_727,1884,3,True,gestoord; lawijd
+731#1603_767,1884,3,True,gestoord; nachtlanggs
+731#1603_778,1884,3,False,laweid
+731#1603_830,1884,3,False,luidkeels; nachtrust
+731#1603_892,1884,3,True,lawijd; stoorde
+731#1603_1008,1884,3,True,luidkeels; schreeuwen
+731#1603_1014,1884,3,False,ramoer; zamoer
+731#1603_1017,1884,3,True,luidkeels; stoorde
+731#1603_1077,1884,3,False,ramoer
+731#1603_1121,1884,3,True,nachtuumer
+731#1604_7,1885,3,True,nachtrust; stoorde
+731#1604_19,1885,3,False,luidkeelst; nachtrumaer; nachtrust
+731#1604_27,1885,3,False,lawogd
+731#1604_79,1885,3,True,lawijt
+731#1604_100,1885,3,True,lawijt
+731#1604_267,1885,3,True,gestoord; lawijs; luidkeels; nachtrust
+731#1604_321,1885,3,False,inmoer; schreeuwen
+731#1604_335,1885,3,False,lawijd
+731#1604_608,1885,3,True,luidkreets
+731#1604_609,1885,3,True,nachtrust
+731#1604_620,1885,3,True,lawyt
+731#1604_789,1885,3,True,lawijt
+731#1604_811,1885,3,False,luidkeels; schreeuwen
+731#1604_828,1885,3,False,lawijt
+731#1604_912,1885,3,False,gestoord; ramoer
+731#1604_919,1885,3,True,straatlawijt
+731#1604_968,1885,3,True,lawijt
+731#1604_1150,1885,3,True,gestoordn; lawijt; nachtrust
+731#1604_1327,1885,3,False,laweyd; lawyd
+731#1604_1333,1885,3,False,lawyd
+731#1605_84,1885,3,False,luidkeels; nachtrust; schreeuwen; stoorde
+731#1605_285,1885,3,True,lawijd
+731#1605_359,1885,3,True,lawid
+731#1605_433,1885,3,False,stoorde
+731#1605_462,1885,3,True,nachtrust; stoorde
+731#1605_547,1885,3,True,nachtlauwheid
+731#1605_641,1885,3,False,rumoer
+731#1605_812,1885,3,True,nachtrust; stoorde
+731#1605_846,1885,3,False,lawijt
+731#1605_882,1885,3,False,lawijd
+731#1605_895,1885,3,True,machtrust; stoorde
+731#1605_907,1885,3,True,nachtwest
+731#1605_972,1885,3,True,lawijd; luitkeels; schreeuwen
+731#1605_1004,1885,3,False,stoorde
+731#1605_1054,1885,3,False,schreeuwen
+731#1605_1066,1885,3,False,lawijd; nachtlawijd; nachtrust
+731#1605_1088,1885,3,False,rucht
+731#1605_1136,1885,3,False,nachtrust; stoorde
+731#1605_1171,1885,3,False,luidkeels; nachtrust; schreeuwen
+731#1605_1207,1885,3,False,lawijd
+731#1605_1277,1885,3,False,nchtrust
+731#1605_1283,1885,3,True,nachtrust; stoorde
+731#1605_1383,1885,3,True,nachtrust; stoorde
+731#1605_1465,1885,3,False,stoorde
+731#1606_9,1886,3,True,lewijd
+731#1606_48,1886,3,False,nachtlanegd; nachtuumaer
+731#1606_59,1886,3,True,luidkeels; nachtrust; schreeuwen
+731#1606_68,1886,3,False,ramoer
+731#1606_78,1886,3,False,lawyd
+731#1606_103,1886,3,True,liwijd; luidop; stoorde
+731#1606_136,1886,3,True,nachtlawijd
+731#1606_148,1886,3,True,nachtrumaer
+731#1606_182,1886,3,False,lawijdt
+731#1606_236,1886,3,True,lawijd
+731#1606_237,1886,3,True,gestoord; luidkeels; nachtrust
+731#1606_252,1886,3,False,nachtrust
+731#1606_389,1886,3,False,nachtraat
+731#1606_456,1886,3,False,luidkeels; schreeuwen
+731#1606_457,1886,3,True,lawijt; luidkeels
+731#1606_479,1886,3,True,lawijd; nachtrust
+731#1606_742,1886,3,True,nachtramoin; nachtrust
+731#1606_746,1886,3,False,lawijd; lawijt
+731#1606_932,1886,3,False,nachtrust; stoordent; vluidkeels
+731#1606_944,1886,3,True,lawijt; nachtlijwijt
+731#1606_968,1886,3,False,gerucht
+731#1606_990,1886,3,True,luidkeels; stoorde
+731#1606_1088,1886,3,True,gerucht
+731#1606_1145,1886,3,True,buidkeels
+731#1607_91,1886,3,True,lewijd; nachtrast; stoorde
+731#1607_103,1886,3,True,lawijd; lawijdmak
+731#1607_245,1886,3,True,nachtrast; stoorde
+731#1607_356,1886,3,False,luidkeels; nachtrust
+731#1607_358,1886,3,True,lawyd
+731#1607_394,1886,3,True,nachtlawijt
+731#1607_459,1886,3,False,nachtrust; stoorde
+731#1607_565,1886,3,False,lawid; nachtrust
+731#1607_670,1886,3,True,gestoord; luidkeels
+731#1607_671,1886,3,True,luidkeels
+731#1607_672,1886,3,True,stoorde
+731#1607_750,1886,3,True,nachtlaweit
+731#1607_766,1886,3,True,luidkeels; ruststoorde
+731#1607_831,1886,3,False,nachtlawgd; nachtrust
+731#1607_907,1886,3,False,nachtrust
+731#1607_987,1886,3,True,dawijt; stoorde
+731#1607_1036,1886,3,False,luidkeels; nachtrnst; stoorde
+731#1607_1205,1886,3,True,gerucht
+731#1607_1211,1886,3,True,ladwijd
+731#1607_1252,1886,3,True,nachtrust; stoorde
+731#1607_1313,1886,3,True,nachtrust
+731#1608_200,1887,3,False,schreeuwen
+731#1608_213,1887,3,False,lawijd
+731#1608_234,1887,3,False,asmoer
+731#1608_278,1887,3,False,lawijt
+731#1608_326,1887,3,False,lawijt
+731#1608_428,1887,3,True,nachtrust
+731#1608_431,1887,3,True,nachtrust
+731#1608_471,1887,3,True,stoorde
+731#1608_568,1887,3,True,lawijd; schreeuwen
+731#1608_580,1887,3,True,geduriglawijd
+731#1608_630,1887,3,False,lawijt
+731#1608_659,1887,3,True,loidkeels; nachtrust; stoorde
+731#1608_673,1887,3,False,nachtlawijd
+731#1608_705,1887,3,True,nachtrust; stoorde
+731#1608_751,1887,3,False,lawid
+731#1608_927,1887,3,True,gestoord
+731#1608_943,1887,3,False,lawijd
+731#1608_1012,1887,3,True,nachtrust; stoorde
+731#1608_1054,1887,3,True,luidkeels; nachtrust; schreeuwen; stoorde
+731#1608_1130,1887,3,True,luidkeels; schreeuwen
+731#1608_1310,1887,3,True,lawijd
+731#1608_1371,1887,3,True,lawijt
+731#1608_1484,1887,3,True,stoorde
+731#1609_192,1886,3,False,straatlawijd
+731#1609_238,1886,3,True,lawijdt
+731#1609_430,1886,3,False,lawyt
+731#1609_521,1886,3,False,lawyjt
+731#1609_646,1886,3,False,nachtrust; stoorde
+731#1609_797,1886,3,False,nochtrust
+731#1609_970,1886,3,True,nachtlewijd; nachtriest
+731#1609_1108,1886,3,False,nachtrust; stoorde
+731#1609_1118,1886,3,True,nachtlicht
+731#1609_1235,1886,3,False,nachtligt
+731#1609_1290,1886,3,True,nachtrust; stoorde
+731#1609_1314,1886,3,True,lawijt
+731#1609_1373,1886,3,False,schreeuwen
+731#1609_1379,1886,3,True,nachtlaweid
+731#1610_2,1887,3,False,nachtrust
+731#1610_217,1887,3,True,lawer; stoorde
+731#1610_509,1887,3,False,gerucht
+731#1610_522,1887,3,True,stoorde
+731#1610_523,1887,3,False,luiskeels; nachtrust
+731#1610_529,1887,3,False,kabaal
+731#1610_554,1887,3,True,ruzi
+731#1610_577,1887,3,True,stoorde
+731#1610_691,1887,3,True,nachtrust; stoorde
+731#1610_692,1887,3,False,lawgt; nachtlawit
+731#1610_788,1887,3,True,lawijd
+731#1610_828,1887,3,False,lawijt
+731#1610_979,1887,3,True,ramoer
+731#1610_1004,1887,3,True,gestoord
+731#1610_1020,1887,3,True,nachtrust
+731#1610_1116,1887,3,False,nachtrust
+731#1610_1117,1887,3,False,nachtreest
+731#1610_1126,1887,3,True,stoorde
+731#1610_1262,1887,3,True,stoorde
+731#1610_1270,1887,3,True,lawijd; nachtrust
+731#1610_1323,1887,3,False,lawijd
+731#1610_1367,1887,3,False,luidkeels
+731#1610_1375,1887,3,True,lawijt
+731#1610_1384,1887,3,True,lawijt
+731#1610_1394,1887,3,True,nachtrust
+731#1610_1405,1887,3,True,luidkeels
+731#1610_1413,1887,3,True,lawijd
+731#1610_1536,1887,3,False,straatlawijd
+731#1610_1541,1887,3,True,luidkeels; stoorde
+731#1610_1588,1887,3,True,nachtrust
+731#1610_1597,1887,3,True,lawijt
+731#1610_1679,1887,3,False,lwijd
+731#1610_1704,1887,3,True,lawijt
+731#1610_1749,1887,3,True,nachtrust
+731#1610_1760,1887,3,True,lawijd
+731#1610_1797,1887,3,True,schreeuwen
+731#1610_1857,1887,3,True,nachtwust
+731#1610_1868,1887,3,True,nachtust; schreeuwen
+731#1610_1964,1887,3,False,schreeuwen
+731#1610_2077,1887,3,True,nachtrust; stoorde
+731#1610_2096,1887,3,True,lawijt
+731#1610_2119,1887,3,False,lawijdt
+731#1610_2197,1887,3,False,lawijd; lawijdt
+731#1610_2205,1887,3,True,nachtrust
+731#1610_2434,1887,3,True,lawijd
+731#1610_2491,1887,3,False,gerucht
+731#1610_2514,1887,3,False,nachtluis
+731#1610_2631,1887,3,False,bawijt
+731#1611_26,1888,3,True,luidkeels
+731#1611_34,1888,3,True,nachtlanwijd
+731#1611_36,1888,3,False,vroezaakte
+731#1611_99,1888,3,True,nachtla
+731#1611_130,1888,3,False,gerucht
+731#1611_325,1888,3,False,lawijd
+731#1611_428,1888,3,True,nachtruit; stoorde
+731#1611_437,1888,3,True,lawijd
+731#1611_577,1888,3,False,tawijd
+731#1611_586,1888,3,True,lawit
+731#1611_614,1888,3,True,nachtrast
+731#1611_647,1888,3,False,gerucht
+731#1611_661,1888,3,True,gestoord; nachtrust
+731#1611_739,1888,3,True,lewijd
+731#1611_789,1888,3,False,nachtwest; nachtwust
+731#1611_794,1888,3,True,schreeuwen
+731#1611_800,1888,3,False,lawijd; lawijt
+731#1611_1064,1888,3,False,nachtruit
+731#1611_1074,1888,3,True,schreeuwen
+731#1611_1190,1888,3,False,gestoord; schreeuwen
+731#1611_1244,1888,3,True,nachtrust
+731#1611_1283,1888,3,True,nachtrust; stoorde
+731#1611_1326,1888,3,False,rucht
+731#1611_1387,1888,3,False,schreeuwde
+731#1611_1397,1888,3,False,schreeuwen; stoorde
+731#1611_1452,1888,3,False,schreeuwen
+731#1611_1512,1888,3,True,luidkeels; nachtrust; stoorde
+731#1611_1646,1888,3,False,gerucht
+731#1611_1792,1888,3,True,lawijt; luidkeels
+731#1611_1793,1888,3,True,luidkeels
+731#1611_1975,1888,3,True,luidkeels; nachtrast
+731#1611_2087,1888,3,True,gestoord; lawijd; nachtrust
+731#1611_2089,1888,3,False,stoorde
+731#1611_2152,1888,3,True,nachtlawijde
+731#1611_2193,1888,3,False,lawijt
+731#1611_2300,1888,3,False,lawijst
+731#1611_2343,1888,3,False,ramoer
+731#1611_2391,1888,3,False,lawyjt; lawyt; stoorde
+731#1611_2472,1888,3,True,nachtrust
+731#1611_2474,1888,3,True,luidkeels; nachtrust; schreeuwen
+731#1611_2577,1888,3,True,schreeuwen
+731#1611_2793,1888,3,True,nachtrust; stoorde
+731#1611_2941,1888,3,False,nachtleiwijd
+731#1612_245,1889,3,False,luidkeels
+731#1612_276,1889,3,True,nachtruit
+731#1612_358,1889,3,True,gerucht; lawijt
+731#1612_438,1889,3,True,lawijt
+731#1612_440,1889,3,True,nachtruit
+731#1612_480,1889,3,True,lawijd
+731#1612_539,1889,3,True,gestoord; nachtrust
+731#1612_541,1889,3,True,nochtrust; stoorde
+731#1612_612,1889,3,False,lawijt
+731#1612_678,1889,3,False,nachtrust
+731#1612_705,1889,3,True,schreeuwen
+731#1612_708,1889,3,False,nachtruit
+731#1612_729,1889,3,True,gestoord; lawijt
+731#1612_928,1889,3,False,lawijt
+731#1612_987,1889,3,False,luidkeels; stoorde
+731#1612_1099,1889,3,False,nachtrust
+731#1612_1209,1889,3,True,gestoord
+731#1612_1238,1889,3,False,geruchtvon; nachtrust
+731#1612_1269,1889,3,True,lawijd
+731#1612_1272,1889,3,True,luidkeels; stoorde
+731#1612_1450,1889,3,True,lawijk
+731#1612_1477,1889,3,True,luidkeels; nachtrust
+731#1612_1612,1889,3,False,lawyt
+731#1612_1900,1889,3,True,nachtrust; stoorde
+731#1612_2045,1889,3,True,kabaal
+731#1612_2115,1889,3,True,nachtlawijd; schreeuwen
+731#1612_2161,1889,3,True,nachtrst
+731#1612_2299,1889,3,True,nachtrust; tawijd
+731#1612_2320,1889,3,False,straatrumoer
+731#1612_2439,1889,3,True,nachtlawijd
+731#1612_2554,1889,3,False,nachtrust; stoorde
+731#1612_2742,1889,3,True,lawijd
+731#1612_2878,1889,3,False,lawijh
+731#1612_2899,1889,3,False,stoorde
+731#1612_2975,1889,3,True,gestoord
+731#1612_3015,1889,3,False,luidkeels; nachtruit; stoorde
+731#1612_3076,1889,3,True,gerucht
+731#1612_3077,1889,3,True,lawijt
+731#1612_3096,1889,3,True,nachtrust; stoorde
+731#1612_3125,1889,3,True,lawijt
+731#1613_1,1889,3,False,lawijtte
+731#1613_69,1889,3,True,rumoer
+731#1613_241,1889,3,True,schreeuwen
+731#1613_317,1889,3,False,stoorde
+731#1613_463,1889,3,True,gestoord; nachtrust
+731#1613_560,1889,3,True,stoorde
+731#1613_572,1889,3,True,nachtlawijt
+731#1613_591,1889,3,False,lawijd
+731#1613_677,1889,3,True,nachtlawijd
+731#1613_842,1889,3,True,stoorde
+731#1613_845,1889,3,True,luidkeels; schreeuwen
+731#1613_961,1889,3,False,gerucht
+731#1613_1059,1889,3,False,nachtrust; stoorde
+731#1613_1110,1889,3,True,gerucht
+731#1613_1241,1889,3,True,luiskeels; nachtrus
+731#1613_1261,1889,3,True,lawijdt
+731#1613_1313,1889,3,False,lawijd; lawijdt
+731#1613_1383,1889,3,True,nachtlawijd
+731#1613_1443,1889,3,True,gestoord; nachtrust
+731#1613_1743,1889,3,True,luidkeels; schreeuwen; stoorde
+731#1613_2107,1889,3,True,buidkeels; stoorde
+731#1613_2151,1889,3,True,lawijdt
+731#1613_2159,1889,3,True,nachtruis; stoorde
+731#1613_2377,1889,3,True,gerucht
+731#1613_2451,1889,3,True,lawijt
+731#1613_2572,1889,3,True,lawijdt; tawijat
+731#1613_2580,1889,3,True,luidkeels; nachtrust; stoorde
+731#1613_2637,1889,3,False,schreeuwen
+731#1613_2750,1889,3,True,schreeuwen
+731#1613_2752,1889,3,True,gerucht
+731#1613_2987,1889,3,True,luidkeels; nachtrust
+731#1613_3023,1889,3,True,nachtrust; stoorde
+731#1614_314,1890,3,True,luidkeels; nachtrust
+731#1614_553,1890,3,True,lawijcte
+731#1614_596,1890,3,False,lawijt
+731#1614_690,1890,3,False,stoorde
+731#1614_698,1890,3,True,schreeuwen
+731#1614_908,1890,3,True,stoorde
+731#1614_925,1890,3,False,nachtrust; stoorde
+731#1614_958,1890,3,True,lawijt; nachtlawijt
+731#1614_1256,1890,3,True,gerucht
+731#1614_1258,1890,3,False,geruckt
+731#1614_1556,1890,3,True,gerucht
+731#1614_1895,1890,3,True,lawijd
+731#1614_1986,1890,3,True,nachtrust; stoorde
+731#1614_1991,1890,3,False,luidkeels; nuchtlawijt; schreeuwen
+731#1614_1993,1890,3,True,nachtrust; stoorde
+731#1614_2011,1890,3,True,gerucht
+731#1614_2075,1890,3,False,heviglawijt
+731#1614_2077,1890,3,False,lawefs; nachtrust
+731#1614_2128,1890,3,True,lawijt; nachtlicht
+731#1614_2166,1890,3,True,gerucht; gestoord; lawejt; nachtruit
+731#1614_2353,1890,3,False,bezignachtrumoer; lawijdmakers
+731#1614_2398,1890,3,False,ruststoorders
+731#1614_2570,1890,3,False,lawijd
+731#1614_2624,1890,3,True,nochtlawit
+731#1614_2817,1890,3,False,schreeuwen
+731#1614_2836,1890,3,False,luidkeels
+731#1614_2923,1890,3,False,lawijd
+731#1614_2936,1890,3,True,gestoord; nachtrus
+731#1614_3051,1890,3,False,lawijten
+731#1614_3071,1890,3,True,lawgjd
+731#1615_65,1890,3,True,luidkeels; nachtrust; stoorde
+731#1615_78,1890,3,True,luidkeels; nachtruit
+731#1615_382,1890,3,True,luidkeels; nachtrust; nachtruststoorde
+731#1615_492,1890,3,False,luidheels
+731#1615_524,1890,3,True,nachtrust; stoorde
+731#1615_665,1890,3,True,nachtlawijt; nachtrust
+731#1615_702,1890,3,True,lawyd
+731#1615_719,1890,3,False,gerucht; nachtrumoer
+731#1615_956,1890,3,False,straatlawijd
+731#1615_1265,1890,3,True,luidkeels
+731#1615_1293,1890,3,True,schreeuwen; stoorde
+731#1615_1345,1890,3,True,laweit
+731#1615_1462,1890,3,True,luidkeels
+731#1615_1482,1890,3,True,schreeuwen
+731#1616_16,1890,8,False,nachtrust; stoorde
+731#1616_30,1890,8,False,lawyd
+731#1616_41,1890,8,False,lawyd
+731#1616_192,1890,8,True,luidkeels; nachtgwijd
+731#1616_220,1890,8,True,nachtrust
+731#1616_240,1890,8,True,luidkeels; nachtrust; stoorde
+731#1616_263,1890,8,True,luidkeels
+731#1616_340,1890,8,True,luidkeels; stoorde
+731#1616_508,1890,8,True,gerucht
+731#1616_574,1890,8,True,nachtlawyjd
+731#1616_576,1890,8,False,nachtrist; stoorde
+731#1616_614,1890,8,True,luidkeels; nachtrust
+731#1616_634,1890,8,True,luidkeels; nachtrust; stoorde
+731#1616_643,1890,8,True,luidkeels
+731#1616_735,1890,8,False,luidkeels
+731#1616_791,1890,8,False,gerucht
+731#1616_882,1890,8,False,gerucht
+731#1616_928,1890,8,True,nachtrust; stoorde
+731#1616_986,1890,8,True,gestoord; nachtrumver
+731#1616_1143,1890,8,True,luidkeels; nachtrust
+731#1616_1180,1890,8,True,luidkeels; nachtrum
+731#1616_1181,1890,8,False,nrachtrust
+731#1616_1197,1890,8,False,lawyjt
+731#1616_1260,1890,8,True,gestoord; nachtrust
+731#1616_1261,1890,8,False,ginwoners; nachtrrest
+731#1616_1298,1890,8,True,nachtfrust
+731#1616_1321,1890,8,True,lawyd; nachtrust; stoorde
+731#1616_1501,1890,8,False,ruststoorders
+731#1616_1589,1890,8,True,gerucht; lawijt
+731#1616_1758,1890,8,False,gerucht
+731#1616_1828,1890,8,False,lawijt
+731#1616_1969,1890,8,False,gerucht
+731#1617_221,1891,3,True,luidkeels
+731#1617_340,1891,3,True,nachtrust; stoorde
+731#1617_348,1891,3,True,schreeuwen
+731#1617_585,1891,3,True,luidkeels; schreeuwen
+731#1617_650,1891,3,False,schreeuwen
+731#1617_701,1891,3,True,nachtrust
+731#1617_892,1891,3,False,lawijs
+731#1617_916,1891,3,False,gerucht
+731#1617_1154,1891,3,True,gestoord; lawijt; nachtrust
+731#1617_1180,1891,3,True,luidkeels
+731#1617_1348,1891,3,False,schreeuwen
+731#1617_1466,1891,3,True,lawijd
+731#1619_21,1892,1,False,stoorde
+731#1619_28,1892,1,True,nachtlawijd
+731#1619_34,1892,1,True,nachtrust; stoorde
+731#1619_55,1892,1,True,nachtrust; stoorde
+731#1619_81,1892,1,False,nachtrust; stoorde
+731#1619_111,1892,1,True,nachtruft
+731#1619_112,1892,1,True,nachtrust; stoorde
+731#1619_157,1892,1,True,nachtrust; schreeuwen; stoorde
+731#1619_158,1892,1,True,nachtrust; stoorde
+731#1619_159,1892,1,False,nachtrust; stoorde
+731#1619_163,1892,1,True,nachtrust; stoorde
+731#1619_172,1892,1,True,luidkeels; nachtrust
+731#1619_174,1892,1,False,luidkeels
+731#1619_197,1892,1,True,nachtrust
+731#1619_270,1892,1,False,luidkeels; nachtrust; stoorde
+731#1619_331,1892,1,True,nachtrust
+731#1619_332,1892,1,True,nachtrust
+731#1619_384,1892,1,True,nachtrust; stoorde
+731#1619_409,1892,1,True,gestoord; nachtrust
+731#1619_414,1892,1,False,nachtrust; stoorde
+731#1619_416,1892,1,True,luidkeels; nachtrust; stoorde
+731#1619_423,1892,1,True,straatlawijd
+731#1619_434,1892,1,True,luidkeels; nachtrust
+731#1619_490,1892,1,True,nachtrust; stoorde
+731#1619_494,1892,1,True,ludkeels; nachtrust
+731#1619_504,1892,1,False,luidkeels
+731#1619_508,1892,1,True,luidkeels; stoorde
+731#1619_538,1892,1,True,nachtlawijt
+731#1619_544,1892,1,True,nachtran
+731#1619_561,1892,1,False,nachtrumaer
+731#1619_562,1892,1,False,lawijen; stoorde
+731#1619_563,1892,1,True,nachtrust; stoorde
+731#1619_567,1892,1,True,nachtrust; stoorde
+731#1619_598,1892,1,True,luidkeels
+731#1619_599,1892,1,True,luidkeels; nachtrust
+731#1619_604,1892,1,True,luidkeels; nachtrust; stoorde
+731#1619_615,1892,1,True,nachtrust
+731#1619_650,1892,1,True,lawaaijen; schreeuwen
+731#1619_657,1892,1,True,opwekte
+731#1619_722,1892,1,True,nachtrust
+731#1619_746,1892,1,True,inwonersstoorde; nachtrust
+731#1619_764,1892,1,False,luidkeels; nachtrest
+731#1619_783,1892,1,True,vemoer
+731#1619_785,1892,1,True,nachtwust
+731#1619_826,1892,1,True,luidkeels; nachtrust; stoorde
+731#1619_916,1892,1,False,nachtrust; stoorde
+731#1619_917,1892,1,True,gerucht
+731#1619_940,1892,1,True,luidkeels; nachtrust
+731#1620_265,1892,1,True,nachtlawit
+731#1620_266,1892,1,False,lawst
+731#1621_39,1893,1,True,luidskeels; stoorde
+731#1621_46,1893,1,True,nachtrust; stoorde
+731#1621_56,1893,1,True,nachtrust; stoorde
+731#1621_102,1893,1,True,gerucht
+731#1621_145,1893,1,False,lawijt
+731#1621_146,1893,1,False,lawijt
+731#1621_152,1893,1,False,geklopmmen
+731#1621_192,1893,1,False,lawijd
+731#1621_230,1893,1,True,nachtrumoer
+731#1621_243,1893,1,True,luidkeels; nachtrust; stoorde
+731#1621_300,1893,1,True,luidop
+731#1621_301,1893,1,False,nachtrust; stoorde
+731#1621_316,1893,1,True,nachtrust; stoorde
+731#1621_324,1893,1,True,nachtlawijd
+731#1621_325,1893,1,False,luidkeels; nachtrust; stoorde
+731#1621_329,1893,1,True,nachtrust
+731#1621_353,1893,1,True,luuidkeels; nachtrust
+731#1621_354,1893,1,True,nachtrust
+731#1621_355,1893,1,False,nachtrukt
+731#1621_375,1893,1,False,gestoord
+731#1621_378,1893,1,True,luidkeels; nachtrust; stoorde
+731#1621_479,1893,1,True,gerucht
+731#1621_489,1893,1,False,nachtrust; stoorde; vensterluidkeels
+731#1621_511,1893,1,True,nachtrust; stoorde
+731#1621_532,1893,1,True,nachtrust; stoorde
+731#1621_548,1893,1,True,nachtrust; stoorde
+731#1621_597,1893,1,False,luidkeels
+731#1621_606,1893,1,True,luidkeels; nachtrust; stoorde
+731#1621_616,1893,1,True,luidkeels; nachtrust; stoorde
+731#1621_623,1893,1,False,stoorde
+731#1621_631,1893,1,False,luidkeels
+731#1621_648,1893,1,False,luidkeels; nachtrust
+731#1621_662,1893,1,True,luidkeels; nachtrust; stoorde
+731#1621_668,1893,1,True,nachtrust; stoorde
+731#1621_673,1893,1,True,nachtrust; stoorde
+731#1621_674,1893,1,True,luidkeels; nachtrust
+731#1621_679,1893,1,True,nachtrust; stoorde
+731#1621_680,1893,1,False,nachtrust
+731#1621_701,1893,1,True,lawijt
+731#1621_711,1893,1,True,nachtrust; stoorde
+731#1621_712,1893,1,True,luidkeels; nachtrust; stoorde
+731#1621_739,1893,1,True,luidtheels; nachtrust; stoorde
+731#1621_742,1893,1,False,luidkeels; nachtrust; stoorde
+731#1621_758,1893,1,True,rumoer
+731#1621_771,1893,1,True,nachtrust
+731#1621_787,1893,1,True,nachtrust
+731#1621_791,1893,1,True,luidskeels; nachtrust; stoorde
+731#1621_798,1893,1,True,nachtrust
+731#1621_815,1893,1,False,lawijt
+731#1621_822,1893,1,True,luidkeels; nachtrust
+731#1621_844,1893,1,True,lawijd
+731#1621_926,1893,1,True,nachtrust
+731#1621_944,1893,1,False,luidkeels; nachtrust; stoorde
+731#1621_960,1893,1,True,nachtrast
+731#1622_84,1894,1,False,lawijt
+731#1622_85,1894,1,False,gerucht
+731#1622_147,1894,1,False,gerucht
+731#1622_784,1894,1,False,zonderlawijd
+731#1622_934,1894,1,False,lawei
+731#1622_2138,1894,1,True,nachtrust
+731#1622_2149,1894,1,True,lawijt
+731#1622_2160,1894,1,True,luidkeels; nachtrust; stoorde
+731#1622_2161,1894,1,False,gerucht
+731#1622_2177,1894,1,True,luidkeels; stoorde
+731#1622_2281,1894,1,True,schreeuwen
+731#1623_65,1896,1,True,luidkeels; nachtrust; stoorde
+731#1623_133,1896,1,True,stoorde
+731#1623_142,1896,1,True,luidkeels
+731#1623_161,1896,1,True,nachtrust; stoorde
+731#1623_170,1896,1,False,buidkeels; luidkeels; nachtrust
+731#1623_183,1896,1,True,luidkeels; stoorde
+731#1623_187,1896,1,True,luidkeels; nachtrust; stoorde
+731#1623_199,1896,1,True,luidkeels
+731#1623_226,1896,1,False,luidkeels; nachtrust; stoorde
+731#1623_235,1896,1,False,luidkeels; nachtruss; stoorde
+731#1623_324,1896,1,True,luidheels
+731#1623_435,1896,1,False,lawys
+731#1623_584,1896,1,True,nachtrust; stoorde
+731#1623_593,1896,1,True,nachtrust; stoorde
+731#1623_613,1896,1,False,lawydt; stoorde
+731#1623_628,1896,1,False,lawidt; stoorde
+731#1623_656,1896,1,False,nachtlangd
+731#1623_731,1896,1,True,luidkeels; nachtrumaer
+731#1623_760,1896,1,True,nachtrust; stoorde
+731#1623_867,1896,1,True,luidkeels; nachtrust
+731#1623_1002,1896,1,False,luidkeels; nachtrust
+731#1623_1200,1896,1,False,stoorde
+731#1623_1201,1896,1,False,krucht
+731#1623_1217,1896,1,False,nachtegaal
+731#1623_1259,1896,1,False,luidkeels; nachtrust
+731#1623_1297,1896,1,False,luidkeels
+731#1623_1449,1896,1,True,budkeels
+731#1623_1514,1896,1,True,luidkeels; nachtrent
+731#1623_1515,1896,1,True,gestoord; luidkeels; nachtrust
+731#1623_1536,1896,1,True,luidkeels; nachtrust
+731#1623_1546,1896,1,True,stoorde
+731#1623_1558,1896,1,True,luidkeels; nachtrust; stoorde
+731#1623_1581,1896,1,False,luidkeels; nachtrust; stoorde
+731#1625_426,1901,1,False,krucht
+731#1625_1565,1901,1,False,wachtlawaai
+731#1625_1586,1901,1,False,walmlawaar
+731#1625_1990,1901,1,False,lawani
+731#1625_2070,1901,1,False,gerucbt; gerucht
+731#1625_2111,1901,1,False,nachtrante
+731#1625_2227,1901,1,False,nachtr
+731#1625_2411,1901,1,False,lidkeels
+731#1626_93,1900,1,False,nachtrust; nuchtlawaai; stoorde
+731#1626_96,1900,1,False,nachtlawaai
+731#1626_97,1900,1,True,nachtlawaai
+731#1626_114,1900,1,True,luiskeels; stoorde
+731#1626_142,1900,1,False,lawaai
+731#1626_162,1900,1,False,nachtlawaai
+731#1626_166,1900,1,True,luidkeels; nachtlawaae; nachtrust
+731#1626_176,1900,1,True,nachtlardaai
+731#1626_260,1900,1,True,stoorde
+731#1626_274,1900,1,False,nachtrust
+731#1626_287,1900,1,True,luidkeels; nachtrust; stoorde
+731#1626_289,1900,1,True,luidkeels; nachtrust; stoorde
+731#1626_302,1900,1,True,nachtrust; stoorde
+731#1626_309,1900,1,True,nachtlawaai
+731#1626_310,1900,1,False,luidkeels
+731#1626_311,1900,1,True,nachtlawani
+731#1626_321,1900,1,True,luidkeels; nachtrust
+731#1626_324,1900,1,True,luidkeels; stoorde
+731#1626_333,1900,1,True,luidkeels; nachtrust; stoorde
+731#1626_345,1900,1,False,nachtlanaaid
+731#1626_354,1900,1,True,gerucht
+731#1626_373,1900,1,True,luidkeels; nachtwist
+731#1626_385,1900,1,True,nachtrust; stoorde
+731#1626_431,1900,1,True,luidkes
+731#1626_457,1900,1,True,luidkeels; nachtlawaar
+731#1626_466,1900,1,False,nachtlawan; stoorde
+731#1626_478,1900,1,False,lawijt
+731#1626_533,1900,1,True,rumoer
+731#1626_557,1900,1,True,luidkeels
+731#1626_580,1900,1,True,nachtlawijt; stoorde
+731#1626_596,1900,1,False,stoorde
+731#1626_599,1900,1,True,luidkeels; nachtrust; stoorde
+731#1626_609,1900,1,True,luidheels; nachtrust
+731#1626_620,1900,1,True,luidkeels; nachtrust; stoorde
+731#1626_633,1900,1,False,nachtlawijd
+731#1626_634,1900,1,False,luidkeels; stoorde
+731#1626_648,1900,1,True,nachtrust; stoorde
+731#1626_649,1900,1,False,nachtrust; stoorde
+731#1626_675,1900,1,True,gerucht
+731#1626_689,1900,1,False,nachtrust
+731#1626_697,1900,1,True,lawaad
+731#1626_704,1900,1,True,luidkeels
+731#1626_759,1900,1,False,nachtlawijd
+731#1626_765,1900,1,False,luidkeels
+731#1626_781,1900,1,False,luidkeels
+731#1626_782,1900,1,False,stoorde
+731#1626_850,1900,1,True,nachtlawijt
+731#1626_856,1900,1,True,nachtlawaai
+731#1626_858,1900,1,False,luidkeels
+731#1626_867,1900,1,True,luidkeels; nachtrust; stoorde
+731#1626_869,1900,1,True,awaai
+731#1626_874,1900,1,False,lawaai; luidkeels; nachtlawaai
+731#1626_875,1900,1,True,nachtlawaai
+731#1626_879,1900,1,True,nachtlawaai
+731#1626_929,1900,1,True,nachtrust
+731#1626_969,1900,1,True,luidkeels; nachtrust; stoorde
+731#1626_1013,1900,1,True,nachtrust
+731#1626_1058,1900,1,True,nachtwmoer
+731#1626_1069,1900,1,True,lawaai
+731#1626_1098,1900,1,True,luidkeels; nachtrust; stoorde
+731#1637_123,1910,6,False,nachtr
+731#1637_528,1910,6,False,nachtlanaai
+731#1637_1093,1910,6,True,nachtr
+731#1638_321,1911,6,False,wachtlawyt
+731#1638_335,1911,6,False,wachtlawyt
+731#1638_355,1911,6,False,nachtlasaan
+731#1638_476,1911,6,False,nachtrieus
+731#1638_767,1911,6,False,nachtrende
+731#1638_862,1911,6,False,nachtrmdle
+731#1638_1068,1911,6,False,omerucht
+731#1638_1311,1911,6,False,nachtgerucht
+731#1638_1639,1911,6,True,rumoer
+731#1639_238,1908,6,True,brumoer
+731#1639_249,1908,6,True,luidkeels
+731#1639_281,1908,6,False,ruststoorders
+731#1639_342,1908,6,True,luidkeels
+731#1639_512,1908,6,True,nachtrust; stoorde
+731#1639_602,1908,6,True,luidkeels
+731#1639_656,1908,6,True,nachtrust; schreeuwde
+731#1639_665,1908,6,True,nachtrust
+731#1639_687,1908,6,False,nachtrumoer
+731#1639_706,1908,6,True,schreeuwen
+731#1639_725,1908,6,False,schreeuwde
+731#1639_739,1908,6,True,gerucht
+731#1639_778,1908,6,True,schreeuwen
+731#1639_806,1908,6,False,gerucht
+731#1639_870,1908,6,True,lawijt; stoorde
+731#1639_897,1908,6,True,nachtrust; stoorde
+731#1639_913,1908,6,False,nachtrust; stoorde
+731#1639_936,1908,6,True,lawaai
+731#1639_999,1908,6,True,luidkeels
+731#1639_1003,1908,6,True,imoer; kabaal; stoorde
+731#1640_29,1909,6,False,nachtegaal
+731#1640_55,1909,6,False,schreeuwde
+731#1640_84,1909,6,False,schreeuwde
+731#1640_135,1909,6,True,schreeuwen
+731#1640_142,1909,6,True,schreeuwen
+731#1640_145,1909,6,False,luidruchtig
+731#1640_168,1909,6,True,nachtrust; stoorde
+731#1640_178,1909,6,True,luidkeels
+731#1640_185,1909,6,True,gerucht
+731#1640_269,1909,6,True,lawijd; nachtrust
+731#1640_277,1909,6,True,luidkeels
+731#1640_311,1909,6,True,nachtrust
+731#1640_444,1909,6,True,gestoord; nachtrust
+731#1640_493,1909,6,True,lawaai
+731#1640_517,1909,6,False,luidkeele; stoorde
+731#1640_536,1909,6,False,gerucht
+731#1640_617,1909,6,False,nachtrust
+731#1640_676,1909,6,True,lawijd
+731#1640_677,1909,6,True,nachtrust; stoorde
+731#1640_713,1909,6,False,luidheel
+731#1640_783,1909,6,True,luidkeels
+731#1640_858,1909,6,True,luidkeels; nachtrust
+731#1640_898,1909,6,True,nachtlawijd
+731#1640_914,1909,6,True,schreeuwen
+731#1640_1010,1909,6,True,lawys
+731#1640_1018,1909,6,True,gerucht; gestoord; lawaai; nachtrust
+731#1645_17,1913,6,True,lawans; stoorde
+731#1645_26,1913,6,True,gestoord; nachtrust; stoorde
+731#1645_132,1913,6,False,luidkeels; nachtrust
+731#1645_198,1913,6,False,gerucht; luidkeels; stoorde
+731#1645_227,1913,6,True,luidkeels; nachtrust; stoorde
+731#1645_234,1913,6,True,luidkeels; stoorde
+731#1645_274,1913,6,True,luidkeels; nachtrust
+731#1645_300,1913,6,False,luidruchtig
+731#1645_385,1913,6,False,luidkeels
+731#1645_417,1913,6,True,nachtrust
+731#1645_522,1913,6,True,nachtrumoer
+731#1645_546,1913,6,False,luidkeels; nachtrust
+731#1645_590,1913,6,False,luikdkeels; nachtlawijd
+731#1645_605,1913,6,False,nachtrust
+731#1645_631,1913,6,True,luidkeels; nachtriost; stoorde
+731#1645_661,1913,6,False,zeerveelkabaal
+731#1645_720,1913,6,True,nachtlawaai
+731#1645_832,1913,6,True,luidkeels
+731#1645_849,1913,6,True,nachtrust
+731#1645_890,1913,6,True,kobaal
+731#1645_926,1913,6,False,kabaal
+731#1645_1037,1913,6,True,kabaal
+731#1645_1146,1913,6,True,kabaal
+731#1645_1247,1913,6,False,kabaal
+731#1645_1289,1913,6,True,luidkeels
+731#1645_1404,1913,6,True,luidkeels; stoorde
+MA#17605_52,1921,3,True,nachtrust
+MA#17605_406,1921,3,True,dlawijd
+MA#17605_1038,1921,3,True,nachtlawijd
+MA#17605_1099,1921,3,True,nachtrust; stoorde
+MA#17606_114,1922,3,False,grucht
+MA#17606_921,1922,3,True,nachtlicht
+MA#17606_989,1922,3,True,gerucht
+MA#17606_1207,1922,3,False,kabaal
+MA#17606_1216,1922,3,False,kabaal
+MA#17606_1232,1922,3,True,nachtgewaad
+MA#17606_1442,1922,3,True,nachtlawijd
+MA#17607_95,1922,3,False,kabaal
+MA#17607_273,1922,3,True,nachtrust
+MA#17607_290,1922,3,True,nachtgewaad
+MA#17607_546,1922,3,True,stoorde
+MA#17607_864,1922,3,True,kabaal; stoorde
+MA#17607_956,1922,3,False,schreeuwde
+MA#17607_1003,1922,3,False,nachtremoer
+MA#17607_1132,1922,3,True,kabaal
+MA#17607_1227,1922,3,False,gerucht; nachtrust; stoorde
+MA#17607_1340,1922,3,True,luidruchtig; nachtrust
+MA#17607_1449,1922,3,True,luidruchtige
+MA#17608_107,1923,3,True,nachtramoer
+MA#17608_449,1923,3,True,stoorde
+MA#17608_644,1923,3,True,luidheels; nachtrust
+MA#17608_771,1923,3,True,lawijl
+MA#17608_1118,1923,3,False,nachtegaal
+MA#17609_66,1923,3,True,verucht
+MA#17609_124,1923,3,True,nachtrumoer
+MA#17609_233,1923,3,True,enriepluidkeels
+MA#17609_245,1923,3,True,riepluidkeels
+MA#17609_350,1923,3,True,rucht
+MA#17609_579,1923,3,True,nachtlawijd
+MA#17609_580,1923,3,False,lawijd; nachtgeluig; nachtlawijd
+MA#17609_640,1923,3,False,lawijd
+MA#17609_884,1923,3,True,luidkeels; nachtgerucht
+MA#17609_1145,1923,3,True,lawijd
+MA#17609_1162,1923,3,False,lawijd
+MA#17609_1178,1923,3,False,gestoord
+MA#17609_1263,1923,3,True,gestoord
+MA#17609_1265,1923,3,True,stoorde
+MA#17609_1324,1923,3,True,lawaait; nachtrust; stoorde
+MA#17609_1513,1923,3,False,gerucht
+MA#17609_1522,1923,3,True,lawijd; nachtrustder; stoorde
+MA#17610_446,1924,3,True,gerucht; gestoord; nachtrust
+MA#17610_447,1924,3,False,gerucht
+MA#17610_623,1924,3,True,lwijd
+MA#17610_745,1924,3,True,anggerucht
+MA#17610_1140,1924,3,True,stoorde
+MA#17610_1310,1924,3,False,habaal
+MA#17610_1324,1924,3,False,lawaai; stoorde
+MA#17610_1504,1924,3,False,luiskeels
+MA#17611_91,1924,3,False,stoorde
+MA#17611_159,1924,3,True,gerucht
+MA#17611_480,1924,3,True,guidkeels; kuidkeels
+MA#17611_576,1924,3,False,stoorde
+MA#17611_964,1924,3,True,kabaal
+MA#17612_290,1924,3,False,nachtrust; stoorde
+MA#17612_302,1924,3,True,lawijd
+MA#17612_312,1924,3,True,gestoord; lawijd; nachtrust
+MA#17612_331,1924,3,True,gerucht
+MA#17612_353,1924,3,True,lawaaid
+MA#17612_672,1924,3,False,machtlaweit
+MA#17612_874,1924,3,True,luidheels; nachtgerucht
+MA#17612_889,1924,3,True,gerucht; nachtgerucht; rucht
+MA#17612_938,1924,3,False,kabaal
+MA#17612_1014,1924,3,False,stoorde
+MA#17612_1027,1924,3,True,stoorde
+MA#17612_1231,1924,3,False,kabaal
+MA#17612_1290,1924,3,False,schreeuwenste
+MA#17613_49,1925,3,False,stoorde
+MA#17613_183,1925,3,False,kabaal
+MA#17613_266,1925,3,False,stoorde
+MA#17613_324,1925,3,False,lawijd
+MA#17613_577,1925,3,False,kabaal
+MA#17613_672,1925,3,False,rucht
+MA#17613_678,1925,3,True,lawaai
+MA#17613_760,1925,3,False,lawid
+MA#17613_876,1925,3,False,luidkeels
+MA#17613_954,1925,3,True,rucht
+MA#17613_966,1925,3,False,stabaal
+MA#17613_1008,1925,3,True,luidruchtig
+MA#17614_133,1926,3,True,luidruchtg
+MA#17614_155,1926,3,True,lawijd; nachtrust
+MA#17614_174,1926,3,True,nachtruit
+MA#17614_178,1926,3,True,nachtruit
+MA#17614_259,1926,3,True,luidkeels
+MA#17614_355,1926,3,True,laidkeels
+MA#17614_555,1926,3,True,nachtlawijd
+MA#17614_629,1926,3,False,kabaal
+MA#17614_839,1926,3,True,stoorde
+MA#17614_1106,1926,3,True,stoorde
+MA#17614_1127,1926,3,True,gerucht
+MA#17614_1151,1926,3,False,gerucht
+MA#17614_1524,1926,3,True,schreeuwde
+MA#17615_15,1926,3,True,gerucht
+MA#17615_82,1926,3,True,gerucht
+MA#17615_126,1926,3,False,stoorde
+MA#17615_289,1926,3,True,luidruch; stoorde
+MA#17615_305,1926,3,True,kabaal
+MA#17615_336,1926,3,True,ludkeels
+MA#17615_689,1926,3,True,lawijd; stoorde
+MA#17615_770,1926,3,False,gerucht; nachtlawijd
+MA#17615_954,1926,3,False,luidruchtig
+MA#17615_1057,1926,3,False,gerucht
+MA#17615_1258,1926,3,True,luidkeels; nachtla
+MA#17615_1259,1926,3,False,luidkecls; nachtlawaai
+MA#17615_1261,1926,3,False,nachtgerucht
+MA#17616_50,1927,3,True,kabaal
+MA#17616_52,1927,3,True,gerucht
+MA#17616_57,1927,3,False,heviggekrakeel
+MA#17616_60,1927,3,False,verdachtgerucht
+MA#17616_72,1927,3,True,gerucht; stoorde
+MA#17616_162,1927,3,True,kabaal
+MA#17616_168,1927,3,True,nachtrust; stoorde
+MA#17616_206,1927,3,False,gestoord
+MA#17616_534,1927,3,True,luidkeels
+MA#17616_675,1927,3,False,stoorde
+MA#17616_905,1927,3,True,straatgerucht
+MA#17616_1058,1927,3,True,nachtgewaad
+MA#17616_1072,1927,3,True,liidruchtig; nachtlawyjd
+MA#17616_1195,1927,3,False,gerucht
+MA#17617_27,1927,3,True,lawaai; nachtlawaai
+MA#17617_394,1927,3,False,gestoord; luidkeels
+MA#17617_490,1927,3,False,gerucht; luidkeels
+MA#17617_540,1927,3,False,luidkeels
+MA#17617_716,1927,3,True,nachtruste
+MA#17617_743,1927,3,True,luidkeels; nachtrust
+MA#17617_869,1927,3,False,gestoord
+MA#17617_914,1927,3,True,gestoord; lawijd; lowijd
+MA#17617_1042,1927,3,True,kabaal
+MA#17617_1044,1927,3,True,stoorde
+MA#17618_4,1928,3,True,gerucht
+MA#17618_8,1928,3,True,kabaal
+MA#17618_19,1928,3,False,kabaal
+MA#17618_112,1928,3,True,nachtrust; stoorde
+MA#17618_145,1928,3,True,luidkeels
+MA#17618_162,1928,3,True,gerucht
+MA#17618_172,1928,3,False,luidkeels
+MA#17618_395,1928,3,False,nachtrust
+MA#17618_457,1928,3,False,kabaal
+MA#17618_538,1928,3,False,kabaal
+MA#17618_617,1928,3,True,kabaal
+MA#17618_916,1928,3,True,luidruchtig
+MA#17618_953,1928,3,False,lawaai
+MA#17618_1030,1928,3,True,lawaai
+MA#17618_1059,1928,3,False,schreeuwen
+MA#17618_1178,1928,3,False,krakeel
+MA#17618_1236,1928,3,False,kabaal
+MA#17618_1317,1928,3,False,kabaal
+MA#17618_1372,1928,3,True,nachtlicht
+MA#17618_1428,1928,3,True,gerucht; nachtlawaai
+MA#17618_1447,1928,3,True,luidkeels; nachtlawaai
+MA#17618_1536,1928,3,True,gerucht
+MA#17618_1729,1928,3,True,gerucht; nachtgerucht
+MA#17618_1809,1928,3,True,gerucht
+MA#17618_1945,1928,3,True,kabaal
+MA#17618_1981,1928,3,False,luidkeels
+MA#17618_2002,1928,3,True,kabaal; luidruchtig
+MA#17618_2167,1928,3,False,kabaal
+MA#17618_2189,1928,3,True,gerucht
+MA#17620_213,1929,3,True,nachtgewaad
+MA#17620_756,1929,3,False,stoorde
+MA#17620_889,1929,3,True,gerucht
+MA#17621_160,1929,3,True,gerucht
+MA#17621_175,1929,3,True,gerucht
+MA#17621_281,1929,3,True,ramoer
+MA#17621_337,1929,3,True,luidkeels; nachtrust
+MA#17621_490,1929,3,True,luidkeels; nachtrust
+MA#17621_537,1929,3,True,gestoord
+MA#17621_572,1929,3,False,gerucht; krakeel; luidkeels
+MA#17621_676,1929,3,True,lawaar; luidruck
+MA#17621_746,1929,3,False,lawijk
+MA#17621_796,1929,3,False,stoorde
+MA#17621_969,1929,3,False,stoorde
+MA#17621_1077,1929,3,True,stoorde
+MA#17621_1222,1929,3,False,kabaal
+MA#17621_1234,1929,3,False,kabaal
+MA#17622_31,1929,3,False,schreeuwen
+MA#17622_115,1929,3,True,nachtrust
+MA#17622_124,1929,3,True,nachtrust
+MA#17622_192,1929,3,True,nachtgerucht
+MA#17622_226,1929,3,True,babaal
+MA#17622_483,1929,3,False,rucht
+MA#17622_562,1929,3,False,trucht
+MA#17622_653,1929,3,True,gerucht
+MA#17622_724,1929,3,True,kabaal
+MA#17622_731,1929,3,True,kabaal
+MA#17622_845,1929,3,False,gerucht
+MA#17622_851,1929,3,False,luidkeels
+MA#17622_853,1929,3,True,bovmoer
+MA#17622_928,1929,3,False,gestoord
+MA#17623_13,1930,3,False,gestoord
+MA#17623_84,1930,3,True,kabaal
+MA#17623_97,1930,3,True,luidruchtig
+MA#17623_177,1930,3,False,kabaal
+MA#17623_352,1930,3,True,luidruchtig; nachtrst
+MA#17623_353,1930,3,False,gerucht
+MA#17623_409,1930,3,True,nachtlawaar; nachtruuer
+MA#17623_480,1930,3,False,kabaal
+MA#17623_496,1930,3,False,luidruchtig
+MA#17623_560,1930,3,False,kabaal
+MA#17623_808,1930,3,False,luidruchtig
+MA#17623_928,1930,3,False,lawaai; liidheels
+MA#17624_95,1930,3,True,lawijd; luidkeels
+MA#17624_190,1930,3,True,tuidkeels
+MA#17624_207,1930,3,False,habaal
+MA#17624_760,1930,3,True,luidkeels
+MA#17624_1036,1930,3,False,gerucht
+MA#17624_1112,1930,3,True,nachtrumoer
+MA#17625_10,1931,3,True,nachtraat
+MA#17625_653,1931,3,True,nachtruit
+MA#17625_865,1931,3,True,lawaaid
+MA#17625_926,1931,3,False,kabaal
+MA#17626_241,1931,3,True,kabaal
+MA#17626_436,1931,3,True,gerucht
+MA#17626_601,1931,3,False,luidkeels
+MA#17626_654,1931,3,True,kabaal
+MA#17626_658,1931,3,True,aangerucht
+MA#17626_744,1931,3,False,kabaal
+MA#17626_828,1931,3,False,lawaai
+MA#17627_78,1932,3,False,opwekte
+MA#17627_352,1932,3,False,stoorde
+MA#17627_700,1932,3,True,luidop
+MA#17627_996,1932,3,False,kabaal
+MA#17627_1080,1932,3,True,kabaal
+MA#17627_1111,1932,3,True,kabaal
+MA#17627_1201,1932,3,False,gerucht
+MA#17627_1226,1932,3,True,nachtlawijd; nachtrumoer
+MA#17627_1260,1932,3,True,kabaal
+MA#17628_183,1932,3,True,nachtlawijk; nachtrust
+MA#17628_198,1932,3,True,nachtrust
+MA#17628_285,1932,3,False,nachtlawijd
+MA#17628_298,1932,3,False,godrucht
+MA#17628_408,1932,3,True,lawijd
+MA#17628_449,1932,3,True,luidskeels; nachtrust
+MA#17628_659,1932,3,True,gerucht; nachtrust
+MA#17628_685,1932,3,True,gerucht
+MA#17628_761,1932,3,False,stoorde
+MA#17628_914,1932,3,False,kubaal
+MA#17628_946,1932,3,False,kabaal
+MA#17628_1140,1932,3,False,habaal; lawijd
+MA#17628_1147,1932,3,True,habaal; lawijd
+MA#17629_738,1932,3,False,nachtgerucht
+MA#17629_739,1932,3,False,gerucht
+MA#17629_768,1932,3,True,luidkeels; nachtlangai
+MA#17629_777,1932,3,True,gerucht
+MA#17629_1002,1932,3,True,stoorde
+MA#17630_8,1933,3,True,gerucht
+MA#17630_44,1933,3,False,nachtrust
+MA#17630_67,1933,3,False,luidruchtig
+MA#17630_419,1933,3,True,kabaar; luidkeels; stoorde
+MA#17630_565,1933,3,True,stoorde
+MA#17630_680,1933,3,True,luidkeels
+MA#17630_815,1933,3,True,hidkeels; nachtrumoer
+MA#17630_846,1933,3,False,labaal
+MA#17630_852,1933,3,False,labaal
+MA#17630_864,1933,3,True,nachtrumder
+MA#17630_1100,1933,3,True,nachtgerucht
+MA#17630_1114,1933,3,False,ludkeels
+MA#17631_73,1933,3,False,gerucht
+MA#17631_271,1933,3,False,kabaal
+MA#17631_301,1933,3,False,trucht
+MA#17631_433,1933,3,True,kabaal
+MA#17631_639,1933,3,True,huiskrakeel
+MA#17631_666,1933,3,False,kabaal
+MA#17631_668,1933,3,False,lawaai
+MA#17631_718,1933,3,False,rucht
+MA#17631_1022,1933,3,False,lawep
+MA#17632_431,1934,3,True,luidruchtig
+MA#17632_536,1934,3,True,liidruchtig
+MA#17632_910,1934,3,False,vrumoer
+MA#17632_991,1934,3,False,gestoord
+MA#17632_1188,1934,3,False,gerucht
+MA#17633_273,1934,3,True,terucht
+MA#17633_298,1934,3,True,lidkeels; nachtrumoer
+MA#17633_428,1934,3,False,amoer
+MA#17633_492,1934,3,False,stoorde
+MA#17633_665,1934,3,False,rabaal
+MA#17633_707,1934,3,False,luidruchtig
+MA#17633_914,1934,3,True,iabaal
+MA#17633_1112,1934,3,False,luidkeels
+MA#17634_95,1935,3,False,kabaal
+MA#17634_950,1935,3,True,kabaal; lawaai
+MA#17634_951,1935,3,True,luidkeels; stoorde
+MA#17635_174,1935,3,True,kabaal
+MA#17635_428,1935,3,True,nachtrumoer; nachtrust; stoorde
+MA#17635_543,1935,3,False,tobaal
+MA#17635_870,1935,3,False,nachtegaal
+MA#17635_884,1935,3,False,nachtegaal
+MA#17635_1215,1935,3,False,lawaai
+MA#17636_88,1935,3,True,lawaai
+MA#17636_214,1935,3,False,gestoord
+MA#17636_319,1935,3,False,lawaai
+MA#17636_431,1935,3,False,nachtrumoer
+MA#17636_512,1935,3,True,gestoord
+MA#17636_601,1935,3,False,kabaal
+MA#17636_882,1935,3,False,luidkeels
+MA#17636_914,1935,3,True,luidkeels; nachtrust
+MA#17637_44,1936,3,False,luidkeels; nogmaakluidruchtige
+MA#17637_101,1936,3,True,gerucht
+MA#17637_104,1936,3,False,gerucht
+MA#17637_196,1936,3,False,luidruchtige
+MA#17637_651,1936,3,True,nachtgerucht
+MA#17637_915,1936,3,False,kabaat
+MA#17637_964,1936,3,False,lawaore
+MA#17638_38,1936,3,False,luidruchtigen; nachtgerucht; nachtrust
+MA#17638_198,1936,3,True,nachtgerucht
+MA#17638_274,1936,3,False,gestoord
+MA#17638_276,1936,3,False,nachtrumoer; nachtrust; stoorde
+MA#17638_305,1936,3,False,kabaal
+MA#17638_306,1936,3,True,luidkeels
+MA#17638_334,1936,3,False,kabaal
+MA#17639_132,1937,3,True,rumoer
+MA#17639_177,1937,3,True,lawyn; luidkeels; schreeuwde
+MA#17639_491,1937,3,True,stoorde
+MA#17639_498,1937,3,True,stoorde
+MA#17639_753,1937,3,False,luidop
+MA#17639_963,1937,3,False,toerucht
+MA#17640_243,1937,3,False,luidruchtig
+MA#17640_255,1937,3,False,kabaal
+MA#17640_257,1937,3,False,kabaal
+MA#17640_307,1937,3,True,rumoer
+MA#17640_323,1937,3,False,habaal
+MA#17640_699,1937,3,False,lawaai
+MA#17640_700,1937,3,False,cawaai; gerucht; lawaai
+MA#17640_704,1937,3,True,klopgerucht
+MA#17640_759,1937,3,False,dabaal
+MA#17640_766,1937,3,False,dabaal
+MA#17640_1133,1937,3,True,inwonershoorde; lawijd; luidheels
+MA#17640_1151,1937,3,True,lawijd; luidheels
+MA#17640_1219,1937,3,False,kabaal; luidkeels
+MA#17641_376,1937,3,False,nachtgericht
+MA#17641_485,1937,3,True,kabaal
+MA#17641_618,1937,3,False,luidkeels
+MA#17641_773,1937,3,True,nachtrust
+MA#17641_1010,1937,3,False,gerucht
+MA#17642_14,1938,3,False,luidruchtig; nachtuest
+MA#17642_81,1938,3,False,binnengerucht
+MA#17642_325,1938,3,False,kabaal
+MA#17642_600,1938,3,True,nachtlaaivaaid
+MA#17642_801,1938,3,True,gerucht
+MA#17642_979,1938,3,False,luidkeels
+MA#17643_97,1938,3,True,nachtlawaai
+MA#17643_537,1938,3,True,gestoord
+MA#17643_586,1938,3,False,kabaal
+MA#17643_711,1938,3,False,lawaai
+MA#17643_812,1938,3,False,gerucht
+MA#17643_874,1938,3,False,gerucht
+MA#17643_1011,1938,3,False,nachtrumder
+MA#17643_1076,1938,3,False,luitkeels
+MA#17643_1100,1938,3,False,luidkeels
+MA#17643_1108,1938,3,False,luidkeels
+MA#17644_225,1938,3,True,hobaal
+MA#17644_226,1938,3,True,lawijd
+MA#17644_267,1938,3,False,gerucht
+MA#17645_252,1939,3,True,lawick
+MA#17646_171,1939,3,False,gerucht
+MA#17646_442,1939,3,False,nachtrest; stoorde
+MA#17646_969,1939,3,False,kabaal
+MA#17647_352,1940,3,False,kabaal
+MA#17647_979,1940,3,False,lawaai
+MA#17647_991,1940,3,False,rumoer
+MA#17648_197,1940,3,False,kabaal
+MA#17648_330,1940,3,True,gerucht
+MA#17648_467,1940,3,False,kabaal
+MA#17648_488,1940,3,False,lawaai; nachtrust
+MA#17648_814,1940,3,False,kabaal
+MA#17648_966,1940,3,False,kabaal
+MA#17648_1041,1940,3,False,geruchten
+MA#17871_120,1912,3,False,nachtlawijd
+MA#17871_260,1912,3,True,lawaai
+MA#17871_276,1912,3,True,luidop
+MA#17871_483,1912,3,True,lawijd
+MA#17871_502,1912,3,True,nachtlawijd
+MA#17871_614,1912,3,False,luidkeels; nachtrust; stoorde
+MA#17871_621,1912,3,True,ludkeels; nachtlawaard
+MA#17871_675,1912,3,True,luidkeels
+MA#17871_783,1912,3,True,luidkeels; stoorde
+MA#17871_818,1912,3,False,luidkeels; nachtrust; stoorde
+MA#17871_927,1912,3,True,nachtrust
+MA#17871_934,1912,3,False,gerucht
+MA#17871_944,1912,3,False,luidkeels
+MA#17871_954,1912,3,False,luidkeels; nachtrumoer
+MA#17871_992,1912,3,True,lijidkeels
+MA#17871_1191,1912,3,False,nachtrumon
+MA#17871_1297,1912,3,True,nachtrust
+MA#17871_1307,1912,3,True,gerucht
+MA#17871_1390,1912,3,True,luidkeels; nachtlawijd; nachtrust
+MA#17871_1407,1912,3,False,luidkeels; nachtrumoer; nachtrust
+MA#17871_1470,1912,3,True,nachtrust; stoorde
+MA#17871_1487,1912,3,True,nachtlawij
+MA#17871_1488,1912,3,False,gestoord; nachtrust
+MA#17871_1491,1912,3,True,luidkeels; nachtrust
+MA#17871_1588,1912,3,True,gerucht
+MA#17871_1625,1912,3,False,nachtegaal
+MA#17871_1679,1912,3,True,nachtrust
+MA#17871_1697,1912,3,True,luidkeels; nachtrust; stoorde
+MA#17871_2044,1912,3,True,nachtrumoer
+MA#17871_2045,1912,3,True,lawaai; nachtrust; nachtrustsoorne; stoorde
+MA#17871_2171,1912,3,True,nachtgerucht; nachtrumoer
+MA#17871_2279,1912,3,True,lawaai
+MA#17873_38,1913,3,True,nachtrust
+MA#17873_53,1913,3,False,nachtrust; stoorde
+MA#17873_93,1913,3,True,luidkeels
+MA#17873_226,1913,3,True,nachtrust
+MA#17873_256,1913,3,True,nachtlawijd; nachtlawvaad; nachtrust
+MA#17873_257,1913,3,False,nachtruf; nachtrust; stoorde
+MA#17873_378,1913,3,True,nachtrust; stoorde
+MA#17873_404,1913,3,False,rumoer
+MA#17873_449,1913,3,True,luidkeels; nachtrust
+MA#17873_472,1913,3,True,nachtrust; stoorde
+MA#17873_482,1913,3,False,nachtgese
+MA#17873_497,1913,3,True,stoorde
+MA#17873_517,1913,3,True,nachtrusk; stoorde
+MA#17873_531,1913,3,False,stoorde
+MA#17873_545,1913,3,True,schreeuwd
+MA#17873_553,1913,3,False,afgerucht
+MA#17873_756,1913,3,True,nachtgerucht
+MA#17873_760,1913,3,False,gerucht
+MA#17873_869,1913,3,False,luidkeels; nachtrust
+MA#17873_971,1913,3,True,machtrust
+MA#17873_1265,1913,3,True,lawijd
+MA#17873_1638,1913,3,True,nachtrast
+MA#17873_1951,1913,3,True,luidkeels; nachtrust
+MA#17873_2052,1913,3,True,nachtrust
+MA#17873_2058,1913,3,False,liidruchtig
+MA#17873_2194,1913,3,True,luidkeels
+MA#17873_2207,1913,3,True,luidkeels; nachtrust; stoorde
+MA#17873_2251,1913,3,False,lawydr; luidheels
+MA#17874_14,1913,3,True,luidkeels; nachtrust
+MA#17874_46,1913,3,True,stoorde
+MA#17874_146,1913,3,False,nachtrust
+MA#17874_264,1913,3,True,lawaar
+MA#17874_329,1913,3,False,stoorde
+MA#17874_407,1913,3,True,gestoord; luidkeels; nachtrust
+MA#17874_619,1913,3,False,luidkeels; nachtriest; stoorde
+MA#17874_625,1913,3,True,nachtrast; stoorde
+MA#17874_688,1913,3,True,nachtrumoer
+MA#17874_967,1913,3,True,luidkeels; nachtrust
+MA#17874_1152,1913,3,True,nachtrust
+MA#17874_1159,1913,3,False,stoorde
+MA#17874_1218,1913,3,True,ludkeels; nachtrust
+MA#17874_1221,1913,3,True,nachtrust; stoorde
+MA#17874_1224,1913,3,False,ludkeels
+MA#17874_1289,1913,3,True,luidkeels; nachtlauni
+MA#17874_1453,1913,3,False,luidkeels; stoorde
+MA#17874_1479,1913,3,False,luidkeels; nachtlawijd; nachtrust
+MA#17874_1505,1913,3,True,nachtrust; stoorde
+MA#17874_1529,1913,3,True,stoorde
+MA#17874_1545,1913,3,True,nachtlawijd; nachtrast; stoorde
+MA#17874_1683,1913,3,True,nachtust; stoorde
+MA#17874_1723,1913,3,True,lewijd; nachtrust; stoorde
+MA#17874_1725,1913,3,True,nachtrust; stoorde
+MA#17874_1916,1913,3,True,gestoord; nachtrust
+MA#17874_2008,1913,3,False,nachtruit
+MA#17874_2076,1913,3,False,nachtrust
+MA#17874_2077,1913,3,True,luidkeels; nachtrust
+MA#17874_2169,1913,3,True,nachtrust; stoorde
+MA#17874_2181,1913,3,True,lawaai; nachtrust
+MA#17874_2213,1913,3,False,nachtrust
+MA#17874_2247,1913,3,True,nachtrumoer
+MA#17874_2283,1913,3,True,luidopzoag
+MA#17875_31,1914,3,True,luidkeels; nachtrust
+MA#17875_58,1914,3,True,lawijd; luiskeels; nachtrust
+MA#17875_106,1914,3,True,nachtrast
+MA#17875_201,1914,3,True,luidkeels; nachtrumoer; nachtrust
+MA#17875_423,1914,3,True,nachtrust; stoorde
+MA#17875_493,1914,3,True,nachtgerucht
+MA#17875_653,1914,3,False,stoorde
+MA#17875_692,1914,3,False,zuwijd
+MA#17875_729,1914,3,False,kabaal
+MA#17875_733,1914,3,False,uudkeels
+MA#17875_773,1914,3,True,nachtrust; uidkeels
+MA#17875_787,1914,3,False,stoorde
+MA#17875_798,1914,3,True,luidruchtig
+MA#17875_799,1914,3,True,nachtrust
+MA#17875_1028,1914,3,True,rumoer
+MA#17875_1048,1914,3,True,nachtlawyjd
+MA#17875_1151,1914,3,True,nachtlawaai
+MA#17875_1428,1914,3,False,gerucht
+MA#17875_1501,1914,3,False,lawaai
+MA#17875_1521,1914,3,True,lawijd
+MA#17875_1598,1914,3,True,nachtlawijd
+MA#17875_1698,1914,3,True,luidruchtig
+MA#17875_1756,1914,3,False,kabaal
+MA#17875_1817,1914,3,True,lawijd; luidkeels
+MA#17875_1878,1914,3,True,lawaar
+MA#17875_1981,1914,3,True,luidruchtig
+MA#17875_1995,1914,3,True,nachtrumeer
+MA#17875_1998,1914,3,True,nachtrumeer; nachtrust
+MA#17875_2010,1914,3,True,nachttawijd
+MA#17875_2047,1914,3,True,luidruchtig; nachtrust; stoorde
+MA#17875_2082,1914,3,True,nachtrust; stoorde
+MA#17875_2087,1914,3,True,luidruchtich; nachtrust; stoorde
+MA#17875_2141,1914,3,True,gerucht
+MA#17875_2173,1914,3,True,luidkeels; nachtrust; stoorde
+MA#17875_2177,1914,3,True,gerucht; luidkeels; nachtrust; stoorde
+MA#17875_2248,1914,3,True,nachtgerucht
+MA#17875_2268,1914,3,False,nachtlawij; nachtrust
+MA#17875_2323,1914,3,True,nachtlawijd
+MA#17875_2334,1914,3,False,nachtlawijd; nachtrust
+MA#17875_2357,1914,3,False,luidkeels; stoorde
+MA#17880_73,1919,3,True,straatlawaai
+MA#17880_92,1919,3,False,aanzochtgeernachtlawijk; nachtrust; schreeuwen
+MA#17880_553,1919,3,True,machtlowijd
+MA#17880_593,1919,3,True,lawyjd
+MA#17880_733,1919,3,True,nachtegaal
+MA#17880_810,1919,3,False,stoorde
+MA#17880_1116,1919,3,False,luidkeels; luidop; stoorde
+MA#17881_6,1920,3,False,gestoord; nouchtrust
+MA#17881_122,1920,3,True,gerucht
+MA#17881_295,1920,3,True,nachtlangd
+MA#17881_489,1920,3,True,nachtlawijd
+MA#17881_605,1920,3,False,kabaal
+MA#17881_607,1920,3,False,gerucht
+MA#17881_613,1920,3,True,nachtlawooy; stoorde
+MA#17881_657,1920,3,False,kabaal
+MA#17881_719,1920,3,True,luidkeels
+MA#17881_739,1920,3,False,nachtnmoer; nachtrust
+MA#17881_806,1920,3,False,rumoer
+MA#17881_878,1920,3,True,kabaal
+MA#17881_911,1920,3,False,stoorde
+MA#17881_921,1920,3,True,luidkeels; nachtlawaar
+MA#17881_933,1920,3,False,kabaal
+MA#17881_934,1920,3,False,habaal
+MA#17881_1128,1920,3,True,stoorde
+MA#17881_1315,1920,3,False,kabaal
+MA#17881_1319,1920,3,True,nachtrust; stoorde
+MA#17881_1338,1920,3,True,lawijds; luidkeels
+MA#17881_1365,1920,3,False,straatlawijt
+MA#17881_1457,1920,3,True,nachtrust
+MA#17881_1463,1920,3,False,lawijd
+MA#17881_1475,1920,3,True,tawijd
+MA#17881_1522,1920,3,True,nachtrumoer
+MA#17882_11,1920,3,False,stoorde
+MA#17882_13,1920,3,False,teirglawijd
+MA#17882_175,1920,3,False,nachtrumoer
+MA#17882_178,1920,3,False,rumoer
+MA#17882_181,1920,3,False,luidop; nachtlawijd
+MA#17882_186,1920,3,False,nachtlawaai; nachtlawaoi
+MA#17882_191,1920,3,False,nachtlawijdte
+MA#17882_193,1920,3,False,schreeuwde
+MA#17882_245,1920,3,False,eengedrucht
+MA#17882_384,1920,3,False,nachtrum
+MA#17882_385,1920,3,True,nachtrumaer
+MA#17882_556,1920,3,False,nachtrumger; nachtrumoer
+MA#17882_557,1920,3,True,nachthawijd; nachtrust
+MA#17882_558,1920,3,False,nachtlawyd; nachtlawyjd; nachtrumoer; tawijd
+MA#17882_636,1920,3,True,nachtrust
+MA#17882_706,1920,3,False,rumoer
+MA#17882_708,1920,3,True,lawijd; nachtrust; stoorde
+MA#17882_709,1920,3,False,gestoord; nachtrust; schreeuwen
+MA#17882_882,1920,3,True,nachtrumver; nachtrust; stoorde
+MA#17882_883,1920,3,False,nachtuumoer
+MA#17882_1056,1920,3,True,lawijd; luidkeels; nachtlawijd
+MA#17882_1064,1920,3,False,rumoer
+MA#17882_1065,1920,3,True,luidkeels
+MA#17882_1146,1920,3,False,nachtegaal
+MA#17882_1242,1920,3,False,nachtrumoer
+MA#17882_1284,1920,3,True,nachtrust
+MA#17882_1285,1920,3,False,nachtrustsloomnis
+MA#17882_1384,1920,3,False,nachtroemoer
+MA#17882_1593,1920,3,False,wbaal
+MA#17882_1795,1920,3,False,nachtrumoer
+MA#17882_1799,1920,3,False,nachtrumoer
+MA#17882_1811,1920,3,False,nachtrumoer
+MA#17883_108,1921,3,False,lawijd
+MA#17883_123,1921,3,True,lawaai; nachtrust
+MA#17883_146,1921,3,False,gestoord; nachtrust
+MA#17883_151,1921,3,False,gestoord; nachtrust
+MA#17883_206,1921,3,True,nachtgerucht
+MA#17883_276,1921,3,True,gestoord
+MA#17883_495,1921,3,False,nachtrammer
+MA#17883_523,1921,3,False,stoorde
+MA#17883_556,1921,3,False,tabaal
+MA#17883_588,1921,3,True,stoorde
+MA#17883_686,1921,3,True,gerucht
+MA#17883_763,1921,3,True,nachtrust
+MA#17883_828,1921,3,True,gerucht
+MA#17883_884,1921,3,True,leidheels; luidheels
+MA#17883_886,1921,3,True,lawijd; nachtrust
+MA#17883_911,1921,3,True,nachtgeruchtge; rumoer
+MA#17883_955,1921,3,True,gerucht
+MA#17883_1030,1921,3,True,stoorde
+MA#17883_1077,1921,3,False,nachtmaker
+MA#17883_1112,1921,3,True,gestoord; nachtrst
+MA#28923_287,1931,6,True,gestoord; luidkeels; nachtrust
+MA#28923_288,1931,6,False,gestoord; lawaaid; nachtrust
+MA#28923_312,1931,6,False,kabaal
+MA#28923_380,1931,6,True,stoorde
+MA#28923_426,1931,6,False,nachtrust
+MA#28923_467,1931,6,True,kabaalmakers
+MA#28923_525,1931,6,True,gerucht; nachtrust
+MA#28923_727,1931,6,True,kabaal
+MA#28923_965,1931,6,True,luidkeels
+MA#28923_1082,1931,6,True,luidruchtig
+MA#28924_277,1932,6,False,kabaal
+MA#28924_318,1932,6,True,kabaal
+MA#28924_499,1932,6,False,nachtrust; stoorde
+MA#28924_557,1932,6,False,tabaal
+MA#28924_612,1932,6,True,kabaal
+MA#28925_60,1932,6,False,gestoord
+MA#28925_86,1932,6,False,gestoord; nachtrust
+MA#28925_110,1932,6,True,kabaal
+MA#28925_184,1932,6,True,luidkeels
+MA#28925_191,1932,6,True,kabaal; kabaat
+MA#28925_216,1932,6,False,kabaal
+MA#28925_519,1932,6,False,luidkeels
+MA#28925_592,1932,6,True,lawijd
+MA#28926_361,1933,6,False,afgerucht
+MA#28926_478,1933,6,False,nachtgewaad
+MA#28926_684,1933,6,False,luidkeels; nachtrust
+MA#28926_1196,1933,6,True,gerucht; nachtgust
+MA#28926_1210,1933,6,False,gedrucht
+MA#28927_26,1933,6,True,gestoord; lawaai
+MA#28927_566,1933,6,True,luidkeels
+MA#28927_895,1933,6,True,lawaai
+MA#28927_963,1933,6,True,kabaal
+MA#28928_47,1934,6,True,gerucht; nachtrust
+MA#28928_191,1934,6,True,gestoord; nachtlawijd; nachtrust
+MA#28928_282,1934,6,False,tabaal
+MA#28928_393,1934,6,False,gerucht
+MA#28928_435,1934,6,True,luidruchtig; nachtns; nachtrumger; nachtrust
+MA#28928_722,1934,6,False,stoorde
+MA#28928_1085,1934,6,True,nachtrust
+MA#28929_143,1935,6,True,kabaal
+MA#28929_276,1935,6,True,nachtrust
+MA#28929_411,1935,6,True,gerucht
+MA#28929_421,1935,6,False,rucht
+MA#28929_486,1935,6,True,luidkeels
+MA#28929_753,1935,6,True,stoorde
+MA#28930_86,1935,6,True,lawaar; nachtrust
+MA#28930_517,1935,6,True,nachtrust; stoorde
+MA#28930_521,1935,6,False,kabaal
+MA#28930_615,1935,6,False,gerucht
+MA#28930_661,1935,6,True,nachtrust; stoorde
+MA#28930_927,1935,6,True,kabaal
+MA#28931_304,1936,6,True,kabaal
+MA#28931_360,1936,6,False,kabaal
+MA#28931_588,1936,6,True,stoorde
+MA#28931_620,1936,6,False,lawaai
+MA#28931_748,1936,6,True,schreeuwde
+MA#28932_16,1936,6,False,luidkeelsroepend
+MA#28932_108,1936,6,True,nachtluwaai; stoorde
+MA#28932_349,1936,6,True,lawijd
+MA#28932_806,1936,6,True,kabaal
+MA#28933_297,1937,6,False,rucht
+MA#28933_325,1937,6,True,luidkeels
+MA#28933_330,1937,6,True,kabaal
+MA#28933_458,1937,6,True,gerucht; nachtrust
+MA#28933_618,1937,6,True,stoorde
+MA#28934_584,1937,6,False,moedrucht
+MA#28934_667,1937,6,False,kabaal
+MA#28934_679,1937,6,False,kabaal
+MA#28934_681,1937,6,True,ontrucht
+MA#28934_830,1937,6,False,kabaal
+MA#28934_1113,1937,6,False,iumoer
+MA#28935_51,1937,6,True,nachtrust
+MA#28935_199,1937,6,False,luidkeels
+MA#28935_911,1937,6,True,gerucht
+MA#28936_87,1937,6,True,gestoord
+MA#28936_528,1937,6,True,gestoord; habaal; nachtrust
+MA#28936_534,1937,6,False,kabaal
+MA#28936_811,1937,6,False,afgerucht; gerucht
+MA#28936_1008,1937,6,False,gerucht
+MA#28937_188,1938,6,True,luidkeels; nachtlawaaimakende
+MA#28937_551,1938,6,False,schreeuwde
+MA#28937_1034,1938,6,False,koabaal
+MA#28937_1103,1938,6,False,lidrucht
+MA#28937_1161,1938,6,False,rucht
+MA#28938_812,1938,6,False,krucht
+MA#28938_859,1938,6,True,habaal; kabaal; nachtlaway
+MA#28938_1032,1938,6,True,stoorde
+MA#28939_3,1939,6,True,nachtrust
+MA#28939_264,1939,6,False,gerucht
+MA#28939_402,1939,6,True,gerucht
+MA#28939_804,1939,6,False,labaal; lawijd
+MA#28939_919,1939,6,False,kabaal
+MA#28939_1081,1939,6,True,nachtrust
+MA#28940_278,1939,6,True,liidruchtig
+MA#28940_513,1939,6,False,kabaal
+MA#28940_629,1939,6,True,iabaal
+MA#28940_763,1939,6,False,habaal
+MA#28940_977,1939,6,True,kabaal; luidkeels
+MA#28941_23,1940,6,False,luidkeels
+MA#28941_27,1940,6,True,luidkeels
+MA#28941_28,1940,6,True,luidkeels
+MA#28941_31,1940,6,False,ruststoorde
+MA#28941_184,1940,6,False,afgerucht
+MA#28941_356,1940,6,False,nachtegaal
+MA#28941_616,1940,6,False,kabaal; luidruchtig
+MA#28941_807,1940,6,False,lawijt
+MA#28941_914,1940,6,False,kabaal
+MA#28942_328,1940,6,False,nachtlawaai
+MA#28942_717,1940,6,False,luidkeels; nachtrust
+MA#28942_951,1940,6,False,gerucht
+MA#29018_21,1932,6,False,gerucht
+MA#29018_842,1932,6,False,gestoord
+MA#29018_1431,1932,6,False,nachtrende
+MA#29018_1576,1932,6,True,nachtrende
+MA#29018_2125,1932,6,False,nachtgs
+MA#29019_812,1933,6,False,rimoer
+MA#29019_1220,1933,6,False,nachtr
+MA#29019_1593,1933,6,False,rucht
+MA#29020_867,1934,6,True,nachtrende
+MA#29020_993,1934,6,False,nachtrpef
+MA#29020_1734,1934,6,False,nachtrende
+MA#29021_2338,1934,6,False,rucht
+MA#29021_2344,1934,6,False,lawijd
+MA#29022_431,1935,6,True,gestoord
+MA#29022_738,1935,6,False,nachtrrf
+MA#29022_952,1935,6,True,nachtlvens
+MA#29022_1005,1935,6,False,nachtr
+MA#29022_1011,1935,6,False,nachtwon
+MA#29022_1513,1935,6,False,law
+MA#29022_2060,1935,6,False,arucht
+MA#29022_2158,1935,6,False,rucht
+MA#29023_421,1936,6,False,dverucht
+MA#29023_602,1936,6,False,nachtraf
+MA#29023_615,1936,6,False,nachtraf
+MA#29023_633,1936,6,False,nachtraf
+MA#29023_2394,1936,6,False,nachtl
+MA#29024_490,1937,6,False,krucht
+MA#29024_947,1937,6,False,nachtgeecht
+MA#29024_951,1937,6,False,rucht
+MA#29024_1980,1937,6,False,nrucht
+MA#29024_1989,1937,6,False,geruchten
+MA#29025_476,1938,6,False,nachtraf
+MA#29025_1772,1938,6,False,rucht
+MA#29025_1778,1938,6,False,nachtgewaad
+MA#29026_71,1938,6,False,nachtrf
+MA#29026_123,1938,6,False,nachtrf
+MA#29026_311,1938,6,False,lawa
+MA#29026_1144,1938,6,False,gerucht
+MA#29026_1679,1938,6,False,nachtreeht
+MA#29026_2020,1938,6,False,kabaal
+MA#29026_2266,1938,6,False,gerucht
+MA#29027_2005,1939,6,False,kabaal
+MA#29028_389,1940,6,False,gerucht
+MA#30813_727,1940,7,False,nachtrust
+MA#30813_731,1940,7,False,luidruchtige; nachtrust
+MA#30813_928,1940,7,False,stoorde
+MA#30813_931,1940,7,False,gerucht
+MA#30813_935,1940,7,False,gerucht
+MA#30813_954,1940,7,False,afgerucht
+MA#30813_957,1940,7,False,schreeuwen
+MA#30813_962,1940,7,False,schreeuwen
+MA#30813_1033,1940,7,False,gerucht
+MA#30813_1039,1940,7,False,gerucht
+MA#30817_242,1895,7,False,luidkeels
+MA#30817_249,1895,7,False,nachtegaal
+MA#30817_306,1895,7,False,luidkeels; vachtruste
+MA#30817_366,1895,7,False,luidkeels
+MA#30817_477,1895,7,False,nachtrimoers
+MA#30817_563,1895,7,False,lawy
+MA#30817_1209,1895,7,False,lawij
+MA#30818_179,1895,7,True,ramoer
+MA#30818_211,1895,7,False,straatlawijt
+MA#30818_362,1895,7,False,schreeuwen
+MA#30818_562,1895,7,False,gestoord; luidkeels
+MA#30818_1114,1895,7,False,nachtrunk
+MA#30818_1239,1895,7,False,nachtlawijd
+MA#30819_107,1896,7,True,luidkeels
+MA#30819_133,1896,7,True,ludkeels; nachtlarags
+MA#30819_194,1896,7,True,lawijdt
+MA#30819_487,1896,7,False,inwom; nachtrust; stoorde
+MA#30819_500,1896,7,False,lawyt
+MA#30819_506,1896,7,True,lawyt
+MA#30819_565,1896,7,True,nachtrust; stoorde
+MA#30819_579,1896,7,True,nachtrust; stoorde
+MA#30819_692,1896,7,True,luidkeels
+MA#30819_734,1896,7,False,luidkeelt
+MA#30819_811,1896,7,False,luidkeels; stoorde
+MA#30820_74,1896,7,False,nachtlawijd
+MA#30820_81,1896,7,False,nachtlawijd
+MA#30820_169,1896,7,False,krakeel
+MA#30820_704,1896,7,False,stoorde
+MA#30820_797,1896,7,True,lawijt
+MA#30820_814,1896,7,False,lawe; luidkeels
+MA#30820_990,1896,7,False,schreeuwen
+MA#30820_1004,1896,7,True,lawijt; rumoer
+MA#30821_75,1902,7,True,luidkeels
+MA#30821_194,1902,7,True,luidkeels; nachtrust
+MA#30821_221,1902,7,True,luidkeels; nachtrumeer; schreeuwen
+MA#30821_321,1902,7,True,lawyd
+MA#30821_482,1902,7,True,luidkeels; nachtrust; stoorde
+MA#30821_495,1902,7,True,gerucht
+MA#30821_568,1902,7,False,gerucht
+MA#30821_730,1902,7,True,luidkeels; nachtrust; stoorde
+MA#30821_949,1902,7,True,stoorde
+MA#30821_984,1902,7,True,luidkeels; nachtrust
+MA#30821_1133,1902,7,True,lawaar
+MA#30821_1268,1902,7,True,luidkeels
+MA#30821_1296,1902,7,True,luidkeels; nachtrust; stoorde
+MA#30821_1419,1902,7,False,luidkeels; nachtrust
+MA#30821_1458,1902,7,True,gerucht; stoorde
+MA#30821_1466,1902,7,True,lawijd
+MA#30821_1479,1902,7,True,lawijd; luidkeels
+MA#30821_1540,1902,7,True,luidkeels; nachtrumeer
+MA#30822_79,1902,7,True,nachtlan
+MA#30822_187,1902,7,False,onrucht
+MA#30822_232,1902,7,False,nachtrumver
+MA#30822_337,1902,7,True,ludkeels; nachtrust; stoorde
+MA#30822_470,1902,7,True,luidkeels; nachtrust; stoorde
+MA#30822_547,1902,7,True,stoorde
+MA#30822_557,1902,7,False,luidkeels; stoorde
+MA#30822_587,1902,7,False,nnachtlawijd
+MA#30822_648,1902,7,False,luidkeels
+MA#30822_663,1902,7,True,luidkeels; nachtrust; stoorde
+MA#30822_728,1902,7,True,nachtrust; stoorde
+MA#30822_806,1902,7,False,ladkeels; nachtrust; stoorde
+MA#30822_853,1902,7,False,luidop
+MA#30822_863,1902,7,False,luidkeels
+MA#30822_885,1902,7,False,gerucht
+MA#30822_892,1902,7,False,gerucht
+MA#30822_895,1902,7,False,luidkeels
+MA#30822_937,1902,7,False,nachtru
+MA#30822_999,1902,7,False,nachtrust; stoorde
+MA#30822_1020,1902,7,True,nachtlangd
+MA#30822_1034,1902,7,False,nachtrust; stoorde
+MA#30822_1062,1902,7,True,nachtrumoe
+MA#30822_1063,1902,7,True,nachtrust; stoorde
+MA#30822_1066,1902,7,True,nachtrust
+MA#30822_1071,1902,7,False,nachtrst; stoorde
+MA#30822_1095,1902,7,False,celuidkeelt
+MA#30822_1096,1902,7,True,luidkeels; stoorde
+MA#30822_1161,1902,7,True,law
+MA#30822_1226,1902,7,False,stoorde
+MA#30822_1259,1902,7,True,luidkeels; nachtrust
+MA#30822_1270,1902,7,True,luidkeels; nachtrust
+MA#30823_98,1903,7,False,luidkeels
+MA#30823_110,1903,7,True,luidkeels; nachtrust; stoorde
+MA#30823_133,1903,7,False,luidkeels
+MA#30823_283,1903,7,False,luidkeels; nachtrust
+MA#30823_284,1903,7,True,nachtrust; stoorde
+MA#30823_285,1903,7,True,luidkeels; nachtrust; stoordde
+MA#30823_648,1903,7,True,luidkeels; nachtlan
+MA#30823_747,1903,7,True,stoordde
+MA#30823_853,1903,7,False,leirdkeels; nachtrust; stoorde
+MA#30823_964,1903,7,True,schreeuwen
+MA#30823_1046,1903,7,False,tawijd
+MA#30823_1099,1903,7,False,luidkeels
+MA#30823_1323,1903,7,True,nachtrust; stoorde
+MA#30823_1537,1903,7,False,lawijd
+MA#30823_1613,1903,7,True,luidkeels; nachtrust
+MA#30823_1633,1903,7,False,nachtrust; stoorde
+MA#30823_1722,1903,7,True,heviglaweid; nachtrest
+MA#30824_24,1904,7,False,luidkeels
+MA#30824_73,1904,7,False,luidkeels; nachtrust; wonersstoorde
+MA#30824_240,1904,7,False,nachtman
+MA#30824_242,1904,7,False,stoorde
+MA#30824_263,1904,7,True,luidkeels
+MA#30824_482,1904,7,False,ruzi
+MA#30824_502,1904,7,False,stoorde
+MA#30824_678,1904,7,False,lawaai
+MA#30824_694,1904,7,True,lawijd; nachterumoer
+MA#30824_730,1904,7,True,luidkeels; stoorde
+MA#30824_772,1904,7,False,lawijd
+MA#30824_836,1904,7,False,luidkeels
+MA#30824_951,1904,7,True,luidkeels; nachtrnst; stoorde
+MA#30824_1143,1904,7,False,lawaai
+MA#30824_1263,1904,7,True,stoorde
+MA#30824_1359,1904,7,False,luidkeels; nrachtrust; stoorde
+MA#30824_1445,1904,7,True,nachtrust
+MA#30825_80,1905,7,False,lawede
+MA#30825_307,1905,7,False,lawijt
+MA#30825_369,1905,7,True,luidkeels
+MA#30825_389,1905,7,True,gerucht
+MA#30825_393,1905,7,True,lawaai
+MA#30825_430,1905,7,False,luidkeels; nachtrust
+MA#30825_432,1905,7,False,luidkeels; nachtrust
+MA#30825_433,1905,7,False,rumoer
+MA#30825_435,1905,7,False,lawijt
+MA#30825_609,1905,7,False,luidkeels
+MA#30825_643,1905,7,True,luidkeels; nachtrust
+MA#30825_651,1905,7,False,luidkeels
+MA#30825_727,1905,7,True,lawijd
+MA#30825_782,1905,7,True,luidruchtige
+MA#30825_783,1905,7,False,nachtlawijd
+MA#30825_784,1905,7,True,nachtrust
+MA#30825_817,1905,7,False,nachtlicht
+MA#30825_832,1905,7,False,nachtrust
+MA#30825_868,1905,7,False,nachtlawaar
+MA#30825_954,1905,7,True,luidkeels; nachtrust; schreeuwen; stoorde
+MA#30825_983,1905,7,False,nachtrust; stoorde
+MA#30825_1064,1905,7,False,nachtman
+MA#30825_1127,1905,7,True,luidheels
+MA#30825_1128,1905,7,True,luidkeels
+MA#30825_1215,1905,7,True,luedkeels; stoorde
+MA#30825_1236,1905,7,True,luidkeels; nachtrust; stoorde
+MA#30825_1291,1905,7,False,luidkeels; nachtrumoer
+MA#30826_156,1907,7,False,aangerucht
+MA#30826_315,1907,7,False,gerucht; gestoord
+MA#30826_547,1907,7,False,zijmoer
+MA#30826_1032,1907,7,False,nachtgerucht
+MA#30827_455,1908,7,True,gerucht
+MA#30827_482,1908,7,True,nachtrust; stoorde
+MA#30827_1076,1908,7,True,nachtlawijd
+MA#30829_112,1919,7,True,gerucht
+MA#30829_165,1919,7,False,nachtrust
+MA#30829_167,1919,7,True,lawaai; nachtrust
+MA#30829_168,1919,7,False,luidheels; luidkeels
+MA#30829_203,1919,7,False,rumoer
+MA#30829_212,1919,7,False,rumoer
+MA#30829_586,1919,7,False,luidkeels
+MA#30829_597,1919,7,True,luidkeels
+MA#30829_608,1919,7,False,nachtrust; stoorde
+MA#30829_647,1919,7,True,nachtlawgd
+MA#30829_678,1919,7,True,nachtlawyjd
+MA#30829_702,1919,7,True,kabaal
+MA#30829_1129,1919,7,False,nachtgewaad
+MA#30830_28,1922,7,False,lawaar
+MA#30830_42,1922,7,True,lawijd
+MA#30830_48,1922,7,True,nachtrust; stoorde
+MA#30830_109,1922,7,False,gerucht
+MA#30830_465,1922,7,True,gerucht
+MA#30830_481,1922,7,True,kabaal; lawai
+MA#30830_541,1922,7,True,luidruchtigzingen
+MA#30830_887,1922,7,True,gerucht; nachtreest
+MA#30830_906,1922,7,False,nachtegaal
+MA#30830_1284,1922,7,True,kabaal
+MA#30831_161,1924,7,True,luidheels
+MA#30831_225,1924,7,True,hediglawijd
+MA#30831_229,1924,7,True,nachtlawijd
+MA#30831_463,1924,7,True,nachtlaweit
+MA#30831_604,1924,7,True,lawijd; nachtlawijd; schreeuwde
+MA#30831_605,1924,7,False,schreeuwde
+MA#30831_615,1924,7,True,gerucht
+MA#30831_936,1924,7,True,nachtlawijd; nachtrust
+MA#30832_35,1925,7,True,luidkeels
+MA#30832_572,1925,7,True,luidruchtig
+MA#30833_123,1925,7,False,nachtrust
+MA#30833_323,1925,7,False,habaal
+MA#30833_563,1925,7,True,luidkeels; stoorde
+MA#30833_701,1925,7,False,luidkeels
+MA#30833_826,1925,7,True,kabaal
+MA#30833_847,1925,7,True,luidruchtig
+MA#30833_936,1925,7,True,luidkeels; nachtrust; stoorde
+MA#30833_952,1925,7,False,nachtlam
+MA#30834_227,1926,7,False,luidkeels; luidruchte; nachtrust
+MA#30834_332,1926,7,True,inwom; luidkeels; nachtrust
+MA#30834_398,1926,7,True,lawijd
+MA#30834_760,1926,7,False,nachtegaal
+MA#30834_903,1926,7,False,gerucht
+MA#30835_160,1928,7,True,lawaai
+MA#30835_331,1928,7,True,aandachtgewekt
+MA#30835_346,1928,7,True,luidruchtig
+MA#30835_475,1928,7,False,kabaal
+MA#30835_660,1928,7,False,nachtlawaai
+MA#30836_61,1929,7,True,lawaai
+MA#30837_128,1930,7,True,kabaal
+MA#30837_215,1930,7,True,gerucht
+MA#30837_223,1930,7,True,gerucht
+MA#30837_254,1930,7,True,schreeuwen
+MA#30837_807,1930,7,False,kabaal
+MA#30837_935,1930,7,True,kabaal; nachtrust; stoorde
+MA#30837_974,1930,7,False,stoorde
+MA#30838_218,1934,7,False,gerucht
+MA#30838_314,1934,7,True,nachtrust; stoorde
+MA#30838_329,1934,7,True,luidop
+MA#30838_530,1934,7,False,kabaal
+MA#30838_792,1934,7,True,nachtrust
+MA#30838_930,1934,7,False,nachtlawijd
+MA#30839_156,1935,7,True,luidop; nachtrust
+MA#30839_203,1935,7,False,afgerucht
+MA#30839_231,1935,7,True,kabaal
+MA#30839_483,1935,7,True,kabaatmaakte; stoorde
+MA#30839_566,1935,7,False,afgerucht
+MA#30839_896,1935,7,False,nachtegaal
+MA#30839_974,1935,7,True,gerucht
+MA#30840_132,1935,7,True,gerucht
+MA#30840_373,1935,7,False,luidop
+MA#30840_868,1935,7,True,gerucht
+MA#30841_69,1936,7,False,luidruchtig
+MA#30841_408,1936,7,False,grucht
+MA#30841_676,1936,7,False,tabaal
+MA#30841_692,1936,7,True,gerucht
+MA#30841_949,1936,7,False,luidkeels; nachtrust
+MA#30841_985,1936,7,True,gestoord; luidruchtig
+MA#30842_184,1936,7,False,vrowijd
+MA#30842_191,1936,7,True,nachtlawaai
+MA#30842_311,1936,7,False,grrucht
+MA#30842_325,1936,7,False,gerucht
+MA#30842_377,1936,7,True,habaal
+MA#30842_454,1936,7,False,kabaal
+MA#30842_564,1936,7,True,nachtrust
+MA#30842_714,1936,7,False,gerucht
+MA#30843_93,1937,7,False,afgerucht
+MA#30843_217,1937,7,False,nachtlawaai
+MA#30843_241,1937,7,True,gestoord; luidkeels
+MA#30843_304,1937,7,False,afgerucht
+MA#30843_430,1937,7,False,gerucht
+MA#30843_566,1937,7,False,gerucht
+MA#30843_639,1937,7,True,geruchtverwelte
+MA#30843_673,1937,7,False,luidkeels
+MA#30843_796,1937,7,True,nachtrust
+MA#30844_209,1938,7,True,gestoord; nachtrust
+MA#30844_243,1938,7,True,liidruchtige
+MA#30844_336,1938,7,True,luidruchtig; stoorde
+MA#30844_415,1938,7,True,luidruchtig; nachtrust
+MA#30844_692,1938,7,True,luidruchtige
+MA#30844_699,1938,7,True,habbaal
+MA#30844_867,1938,7,True,gestoord; nachtrust; stoorde
+MA#30844_875,1938,7,True,gestoord; lawaar; nachtrust; stoorde
+MA#30845_63,1938,7,False,stoorde
+MA#30845_271,1938,7,True,gerucht
+MA#30845_540,1938,7,True,gestoord
+MA#30845_541,1938,7,True,gerucht
+MA#30845_605,1938,7,True,nachtrust
+MA#30845_606,1938,7,False,gestoord; nachtrust
+MA#30845_761,1938,7,True,luidruchtig
+MA#30845_876,1938,7,True,luidkeels
+MA#30845_961,1938,7,False,gerucht
+MA#30846_234,1939,7,True,kabaal
+MA#30846_238,1939,7,True,kabaal
+MA#30846_297,1939,7,False,kabaal
+MA#30846_303,1939,7,False,kabaal
+MA#30846_505,1939,7,True,gerucht; gestoord; nachtwest
+MA#30846_507,1939,7,False,gerucht
+MA#30846_526,1939,7,True,lawaar
+MA#30846_539,1939,7,True,hudkeels; nachtruman; nachtrust
+MA#30846_778,1939,7,True,machtrust
+MA#30846_992,1939,7,True,nachtrumoen
+MA#30846_1000,1939,7,True,nachtrumonn
+MA#30847_458,1939,7,False,nachtrust
+MA#30847_594,1939,7,False,gerucht
+MA#30847_650,1939,7,False,nachtleger
+MA#30847_944,1939,7,False,schreeuwen
+MA#30847_953,1939,7,False,schreeuwen
+MA#30847_1034,1939,7,False,gerucht
+MA#30848_57,1940,7,True,luidruchtig
+MA#30848_61,1940,7,True,luidruchtig
+MA#30848_344,1940,7,True,aangerucht
+MA#30848_550,1940,7,False,stoorde
+MA#30848_556,1940,7,False,stoorde
+MA#30848_590,1940,7,False,gerucht
+MA#30848_927,1940,7,False,nachtrust
+MA#30848_1155,1940,7,False,lawaar; nachtlawaar
+MA#30848_1170,1940,7,False,habaal; nachtrust; stoorde
+MA#30848_1176,1940,7,False,afgerucht
+MA#33133_77,1921,5,True,luidkeels; nachtrust; stoorde
+MA#33133_92,1921,5,False,lawaai
+MA#33133_95,1921,5,False,gerucht
+MA#33133_322,1921,5,True,luidkeels; stoorde
+MA#33133_398,1921,5,False,stoorde
+MA#33133_476,1921,5,False,nachtrust
+MA#33133_596,1921,5,True,gerucht
+MA#33133_816,1921,5,True,luidkeels
+MA#33133_828,1921,5,True,luidkeels; stoorde
+MA#33133_879,1921,5,True,luidkeels; nachtrust
+MA#33133_1023,1921,5,True,luidkeels
+MA#33133_1024,1921,5,False,lawaai
+MA#33133_1048,1921,5,True,nachtrust
+MA#33133_1156,1921,5,True,luidkeels; nachtrust; stoorde
+MA#33133_1201,1921,5,True,nachtrust
+MA#33133_1284,1921,5,True,luidkeels; nachtrust; stoorde
+MA#33133_1286,1921,5,False,ingerucht
+MA#33133_1315,1921,5,False,kabaal
+MA#33134_11,1921,11,False,nachtrust
+MA#33134_13,1921,11,True,nachtkabaal
+MA#33134_95,1921,11,True,gerucht
+MA#33134_117,1921,11,False,rumoer
+MA#33134_139,1921,11,False,lawaai
+MA#33134_470,1921,11,True,nachtrust; stoorde
+MA#33134_791,1921,11,True,stoorde
+MA#33134_951,1921,11,True,kabaal
+MA#33134_963,1921,11,True,kabaal
+MA#33134_1011,1921,11,True,lawam
+MA#33134_1169,1921,11,True,lawaai; nachtrust
+MA#33134_1227,1921,11,True,gestoord; lawaai; nachtrust
+MA#33134_1272,1921,11,True,nachtla; stoorde
+MA#33134_1282,1921,11,True,nachtla; stoorde
+MA#33134_1290,1921,11,False,nachtlawaai
+MA#33134_1470,1921,11,True,stoorde
+MA#33134_1500,1921,11,True,nachtrust
+MA#33134_1511,1921,11,True,nachtruk
+MA#33134_1597,1921,11,True,luidkeels; nachtrust
+MA#33134_1616,1921,11,True,luidkeelste; nachtrust
+MA#33134_1682,1921,11,True,luidheels; nachtrust; stoorde
+MA#33134_1742,1921,11,True,lawaai
+MA#33134_1754,1921,11,True,luidkeels; nachtrest; stoorde
+MA#33134_1784,1921,11,True,lachteawijd
+MA#33134_1869,1921,11,True,nachtrust; stoorde
+MA#33134_1870,1921,11,True,ludkeels; stoorde
+MA#33135_26,1922,11,True,nachtrust
+MA#33135_29,1922,11,True,nachtrust; stoorde
+MA#33135_32,1922,11,True,nachtrust
+MA#33135_57,1922,11,True,nachtrust; stoorde
+MA#33135_84,1922,11,False,nachtrust; stoorde
+MA#33135_96,1922,11,True,nachtrist
+MA#33135_179,1922,11,True,nachtrust
+MA#33135_188,1922,11,True,nachtrust; stoorde
+MA#33135_192,1922,11,True,inwonersstoorde; nachtrust
+MA#33135_198,1922,11,False,nachtegaal
+MA#33135_200,1922,11,False,nachtegaal
+MA#33135_243,1922,11,True,nachtrust
+MA#33135_248,1922,11,True,nachtrust
+MA#33135_253,1922,11,True,krakeel
+MA#33135_322,1922,11,True,stoorde
+MA#33135_329,1922,11,False,luidkeelsch; nachtegaal; nachtrust; stoorde
+MA#33135_333,1922,11,True,luidkeels; nachtrust; stoorde
+MA#33135_349,1922,11,True,kabaal
+MA#33135_590,1922,11,True,nachtryst
+MA#33135_626,1922,11,True,kabaal; lawei; rumoer
+MA#33135_655,1922,11,False,nachtruuwe
+MA#33135_658,1922,11,False,luidkeel
+MA#33135_665,1922,11,False,nachtruuwer
+MA#33135_702,1922,11,True,lawaai; nachtrust
+MA#33135_704,1922,11,True,luidkeels; nachtrust
+MA#33135_803,1922,11,False,nachtrust
+MA#33135_810,1922,11,True,gerucht
+MA#33135_873,1922,11,True,luidkeels; nachtrust
+MA#33135_884,1922,11,True,luidkeels
+MA#33135_886,1922,11,True,nachtrust
+MA#33135_893,1922,11,False,nachtegaal
+MA#33135_894,1922,11,True,nachtuust
+MA#33135_910,1922,11,True,nachtrust; stoorde
+MA#33135_1074,1922,11,True,ludkeels; nachtrust
+MA#33135_1075,1922,11,True,nachtreest
+MA#33135_1079,1922,11,True,luidkeels; nachtrust
+MA#33135_1148,1922,11,False,luidkeels; nachtrust
+MA#33135_1317,1922,11,False,gerucht; kabaal
+MA#33135_1353,1922,11,False,luidkeels; nachtust
+MA#33136_5,1923,11,False,luidheels
+MA#33136_81,1923,11,False,nachtrust
+MA#33136_107,1923,11,True,luidkeels; nachtrust
+MA#33136_140,1923,11,False,nachtrust
+MA#33136_170,1923,11,True,lawaard; nachtrust
+MA#33136_239,1923,11,True,nachtrusoer; nachtrust
+MA#33136_304,1923,11,False,gerucht
+MA#33136_379,1923,11,True,nachtrumer
+MA#33136_403,1923,11,True,luidkeels; nachtrust; stoorde
+MA#33136_430,1923,11,True,nachtrust; stoorde
+MA#33136_439,1923,11,True,luidruchtig
+MA#33136_474,1923,11,True,luidkeels
+MA#33136_543,1923,11,True,luidkeels
+MA#33136_570,1923,11,False,luidkeels; stoorde
+MA#33136_590,1923,11,True,kabaal; nachtrust
+MA#33136_627,1923,11,True,kabaal
+MA#33136_694,1923,11,False,nachtrust; stoorde
+MA#33136_695,1923,11,True,geruckt
+MA#33136_720,1923,11,True,luidkeels; nachtrust
+MA#33136_852,1923,11,True,nachtrust
+MA#33136_873,1923,11,True,nachtrust; rumoer
+MA#33136_898,1923,11,True,nachtrest
+MA#33136_930,1923,11,False,luidkeels
+MA#33136_1086,1923,11,True,ludkeels; nachtwust
+MA#33136_1214,1923,11,False,nachtrust; ruidkeels; stoorde
+MA#33136_1229,1923,11,True,gestoord; nachtrust
+MA#33136_1231,1923,11,False,rumaer
+MA#33136_1248,1923,11,True,rumoer
+MA#33136_1260,1923,11,True,kabaar
+MA#33136_1263,1923,11,False,kabbaal
+MA#33136_1295,1923,11,True,luidkeels; nachtrust; stoorde
+MA#33136_1353,1923,11,True,luidkeels; nachtrust; stoorde
+MA#33136_1400,1923,11,True,ludkeels; nachtruet; nachtruit; stoorde
+MA#33136_1411,1923,11,True,luidkeels; stoorde
+MA#33136_1412,1923,11,True,lidkeels; nachtrst; stoorde
+MA#33136_1443,1923,11,False,nrucht
+MA#33136_1451,1923,11,True,luidkeels; stoorde
+MA#33137_125,1925,11,False,kabaal
+MA#33137_134,1925,11,False,rumoer
+MA#33137_146,1925,11,False,gerucht
+MA#33137_147,1925,11,True,luidkeels; nachtrust; stoorde
+MA#33137_233,1925,11,True,gestoord; luidkeels
+MA#33137_257,1925,11,True,nachtrust
+MA#33137_386,1925,11,True,luidkeelt; nachtraot; stoorde
+MA#33137_403,1925,11,True,kabaal
+MA#33137_404,1925,11,True,lawaayd
+MA#33137_405,1925,11,True,lawaard
+MA#33137_442,1925,11,True,stoordde
+MA#33137_451,1925,11,False,bachtrust
+MA#33137_537,1925,11,True,nachtrumaer
+MA#33137_549,1925,11,True,kabaal
+MA#33137_668,1925,11,True,nachtrust
+MA#33137_678,1925,11,True,nachtrust
+MA#33137_750,1925,11,True,nachtrustder
+MA#33137_780,1925,11,True,nachtrumoer; stoorde
+MA#33137_794,1925,11,True,kabaal
+MA#33137_830,1925,11,False,luidkeels
+MA#33137_839,1925,11,True,nachtrust; stoorde
+MA#33137_848,1925,11,True,nachtrust; stoorde
+MA#33137_1027,1925,11,True,luidkeels; stoorde
+MA#33137_1154,1925,11,True,gestoord; lawaai; nachtrust
+MA#33137_1297,1925,11,True,ludkeels; nachtrust; stoorde
+MA#33137_1333,1925,11,True,nachtrust; stoorde
+MA#33137_1440,1925,11,True,uidkeels
+MA#33137_1452,1925,11,True,luidheels
+MA#33137_1464,1925,11,True,nachtlawijd
+MA#33137_1507,1925,11,True,lawijd
+MA#33137_1573,1925,11,False,gestoord; nachtrust
+MA#33137_1628,1925,11,True,nachtruier
+MA#33138_38,1926,11,False,nachtrumoer
+MA#33138_54,1926,11,True,luidkeels; nachtrust
+MA#33138_117,1926,11,True,nachtrust
+MA#33138_125,1926,11,True,nachtrust
+MA#33138_133,1926,11,True,nachtrust
+MA#33138_135,1926,11,True,nachtrust
+MA#33138_155,1926,11,True,luidkeels; nachtrust; stoordden
+MA#33138_158,1926,11,False,kabaal; luidrus; nachtrumoer
+MA#33138_171,1926,11,True,luidkeels
+MA#33138_180,1926,11,True,luidkeels; nachtrust; stoorde
+MA#33138_181,1926,11,True,luidkeels; nachtruit
+MA#33138_191,1926,11,True,kabaal; nachtust; stoorde
+MA#33138_194,1926,11,True,nachtrust
+MA#33138_226,1926,11,True,nachtreest
+MA#33138_228,1926,11,False,lawijt
+MA#33138_229,1926,11,False,kabaal
+MA#33138_254,1926,11,True,luidkeels; nachtrust; stoorde
+MA#33138_332,1926,11,False,nochtrust
+MA#33138_361,1926,11,True,luidkeels; nachtrust
+MA#33138_518,1926,11,True,gerucht; nachtruit
+MA#33138_526,1926,11,True,gerucht; nachtrus
+MA#33138_577,1926,11,True,nochtrust
+MA#33138_588,1926,11,True,nachtrust
+MA#33138_595,1926,11,False,gerucht
+MA#33138_626,1926,11,False,nachtegaal
+MA#33138_715,1926,11,True,gerucht
+MA#33138_787,1926,11,True,ruziezoekte
+MA#33138_877,1926,11,True,kabaal; lawijd; nachtrust
+MA#33138_885,1926,11,True,kabaal; lawijd; nachtrust
+MA#33138_1044,1926,11,True,nachtrust
+MA#33138_1126,1926,11,True,luidkeels; nachtrust
+MA#33138_1130,1926,11,True,luidheels; nachtrust; stoordeet
+MA#33138_1237,1926,11,True,nachtuist; stoorde
+MA#33138_1242,1926,11,True,nachtrust
+MA#33138_1266,1926,11,True,lewijd
+MA#33138_1315,1926,11,True,luidkeels; nachtrnst; stoorde
+MA#33139_8,1927,11,False,luiskeels
+MA#33139_72,1927,11,True,nachtgewaad
+MA#33139_78,1927,11,True,kabaat; nachtrust
+MA#33139_88,1927,11,False,luidheels; nachtruster
+MA#33139_166,1927,11,False,luidkeels
+MA#33139_207,1927,11,True,nachtrust
+MA#33139_220,1927,11,True,nachtremoer
+MA#33139_302,1927,11,False,kabaal
+MA#33139_341,1927,11,True,luidkeels; nachtrast
+MA#33139_373,1927,11,True,nachtrust
+MA#33139_385,1927,11,True,nachtrust
+MA#33139_402,1927,11,True,nachtrust
+MA#33139_454,1927,11,True,luidkeels
+MA#33139_508,1927,11,True,kabaal
+MA#33139_516,1927,11,False,kabaal
+MA#33139_532,1927,11,False,schreeuwen
+MA#33139_605,1927,11,True,nachtrumoor
+MA#33139_616,1927,11,True,gerucht
+MA#33139_748,1927,11,False,kabaal
+MA#33139_773,1927,11,True,luidkeels; nachtrst
+MA#33139_797,1927,11,False,tuidkeels
+MA#33139_827,1927,11,True,kabaal
+MA#33139_854,1927,11,True,kabaal
+MA#33139_927,1927,11,True,luidkeels
+MA#33139_1015,1927,11,False,kabaal; nachtrust; stoorde
+MA#33139_1149,1927,11,True,lawijd; nachtrust
+MA#33139_1190,1927,11,False,lawaaid; nachtrust
+MA#33139_1255,1927,11,True,lawaar; luidkeels
+MA#33140_7,1928,11,False,nachtrust; stoorde
+MA#33140_178,1928,11,True,luidkeels
+MA#33140_193,1928,11,True,luidkeels
+MA#33140_270,1928,11,True,lawaai; luidheels
+MA#33140_363,1928,11,True,nachtrust
+MA#33140_372,1928,11,False,nachtrumoer
+MA#33140_379,1928,11,True,luidkeels; nachtrust
+MA#33140_418,1928,11,True,gerucht
+MA#33140_461,1928,11,True,lawyd; nachtrust
+MA#33140_519,1928,11,True,gerucht
+MA#33140_600,1928,11,False,luidkeels; nachtrust
+MA#33140_608,1928,11,False,nachtrust
+MA#33140_831,1928,11,True,luidkeels; nachtrust
+MA#33140_832,1928,11,True,luidkeels; nachtrust
+MA#33140_853,1928,11,True,nachtruust
+MA#33140_868,1928,11,False,gestoord
+MA#33140_894,1928,11,True,kabaal; nachtrust; rumoer
+MA#33140_1006,1928,11,True,luidkeels; nachtrumoer
+MA#33140_1015,1928,11,True,kabaal
+MA#33140_1018,1928,11,False,rabaal
+MA#33140_1062,1928,11,True,nachtrust
+MA#33140_1099,1928,11,True,luidkeels; nachtrust
+MA#33140_1107,1928,11,True,luidkeels
+MA#33140_1119,1928,11,True,nachtkabaal
+MA#33141_120,1929,11,True,rucht
+MA#33141_186,1929,11,False,nachtrust
+MA#33141_368,1929,11,False,gerucht
+MA#33141_410,1929,11,False,gerucht
+MA#33141_452,1929,11,True,luidkeel; nachtruit
+MA#33141_462,1929,11,False,habaal; nochtrust
+MA#33141_567,1929,11,True,nachtlawijd
+MA#33141_615,1929,11,True,kabaal
+MA#33141_675,1929,11,False,luidkeels; nachtrust
+MA#33141_736,1929,11,True,kabaal; nachtrust
+MA#33141_740,1929,11,True,nachtlawijd; nachtrust
+MA#33141_784,1929,11,True,lawaar; nachtruit
+MA#33141_820,1929,11,True,luidkeels; nachtrumoerverwekte; nachtrust
+MA#33141_834,1929,11,False,luidkeels; stoorde
+MA#33141_871,1929,11,True,lawaai
+MA#33141_888,1929,11,True,lawaar
+MA#33141_901,1929,11,True,gerucht; inwonengstoorde; nachtrust
+MA#33141_1143,1929,11,False,buidkeels
+MA#33142_12,1930,11,True,habaal
+MA#33142_23,1930,11,True,kabaal
+MA#33142_24,1930,11,True,kabaal
+MA#33142_141,1930,11,True,nachtrumoer; nachtrust
+MA#33142_341,1930,11,False,nachtrumoor; nachtuust
+MA#33142_373,1930,11,True,nachtrust
+MA#33142_450,1930,11,True,nachtrumoer
+MA#33142_495,1930,11,True,nachtlawaai; nachtrust
+MA#33142_662,1930,11,False,gestoord
+MA#33142_673,1930,11,False,kabaal
+MA#33142_746,1930,11,False,nachtrust
+MA#33142_748,1930,11,True,nachtrust
+MA#33142_817,1930,11,True,luidkeels; nachtrust
+MA#33142_859,1930,11,True,nachtlawaai; nachtrust
+MA#33142_879,1930,11,True,luidruchtig; nachtrust
+MA#33142_941,1930,11,False,verucht
+MA#33142_1121,1930,11,True,nachtrust
+MA#33142_1123,1930,11,True,nachtrust
+MA#33142_1124,1930,11,True,nachtgemaat
+MA#33142_1167,1930,11,True,kabaal
+MA#33142_1169,1930,11,True,habaal
+MA#33142_1252,1930,11,False,ludkeels; stoorde
+MA#33146_14,1934,11,True,luidheels; machtrust
+MA#33146_209,1934,11,True,luidheels; nachtrust
+MA#33146_211,1934,11,False,nachtgerucht
+MA#33146_435,1934,11,True,luidkeels; snachtrust; stoorde
+MA#33146_643,1934,11,True,nachtwest
+MA#33146_734,1934,11,True,luidkeels; nachtrust
+MA#33146_750,1934,11,True,kabaal; lawijd; luidkeels; nachtgewaad; nachtrust; stoorde
+MA#33146_767,1934,11,True,kabaal; luidkeels; nachtrust
+MA#33146_905,1934,11,False,nachtrust
+MA#33146_927,1934,11,True,luidkeels
+MA#33146_938,1934,11,True,luidkeels
+MA#33146_1037,1934,11,True,nachtuest
+MA#33146_1043,1934,11,False,nachtuest
+MA#33146_1054,1934,11,True,nachtgerucht
+MA#33146_1083,1934,11,True,luidkeels
+MA#33146_1123,1934,11,True,luuidkeels; nachtrust
+MA#33146_1177,1934,11,False,gestoord
+MA#33146_1179,1934,11,False,gestoord
+MA#33146_1183,1934,11,True,luidkeels; nachtrust
+MA#33146_1250,1934,11,False,habaal
+MA#33146_1398,1934,11,False,luidkeels; nachtlaxaai; nachtrust
+MA#33146_1487,1934,11,False,nachtrust
+MA#33146_1630,1934,11,True,nachtrust
+MA#33146_1771,1934,11,False,kabaal
+MA#33148_14,1936,11,True,luidkeels; nachtrust
+MA#33148_137,1936,11,True,luidkeels
+MA#33148_181,1936,11,True,luidkeels; nachtrust
+MA#33148_199,1936,11,False,nachtrust
+MA#33148_207,1936,11,True,kabaal
+MA#33148_209,1936,11,False,kabaal; nachtrust; stoorde
+MA#33148_356,1936,11,True,luidruchtig; nachtrust
+MA#33148_454,1936,11,True,nachtlawaar
+MA#33148_648,1936,11,False,gestoord
+MA#33148_678,1936,11,False,trucht
+MA#33148_707,1936,11,True,gerucht; nachtrust
+MA#33148_714,1936,11,True,nachtrust; stoorde
+MA#33148_764,1936,11,False,nachtlawaard
+MA#33148_824,1936,11,False,kabaal
+MA#33148_878,1936,11,True,gerucht; geruckt
+MA#33148_1037,1936,11,True,gestoord; nachtrust
+MA#33148_1046,1936,11,True,gestoord; nachtrust
+MA#33148_1059,1936,11,True,gestoord
+MA#33148_1192,1936,11,True,nachtgerucht; nachtrust
+MA#33148_1214,1936,11,True,nachtwest
+MA#33148_1275,1936,11,False,nachtgerucht
+MA#33148_1337,1936,11,True,luidkeels
+MA#33150_196,1937,11,True,kabaal; lawaai
+MA#33150_271,1937,11,True,lawaai
+MA#33150_544,1937,11,True,nachtgewelt; nachtrust
+MA#33150_601,1937,11,True,nachtrust
+MA#33150_817,1937,11,True,kabaal
+MA#33150_1045,1937,11,False,kabaal
+MA#33185_11,1899,5,True,stoorde
+MA#33185_96,1899,5,False,lawij
+MA#33185_98,1899,5,False,nachtrust; stoordde
+MA#33185_146,1899,5,True,nachtlawiid
+MA#33185_174,1899,5,True,lewijd; luidkeels
+MA#33185_178,1899,5,False,lawij
+MA#33185_267,1899,5,False,luidkeels
+MA#33185_269,1899,5,False,luidkeelste; nachtrust
+MA#33185_306,1899,5,False,lawg; luidkeels
+MA#33185_310,1899,5,True,nachtrust; stoorde
+MA#33185_329,1899,5,True,lawaai
+MA#33185_376,1899,5,False,gerucht
+MA#33185_451,1899,5,True,lawaaier
+MA#33185_462,1899,5,True,nachtlawijt; nachtrust; stoorde
+MA#33185_482,1899,5,True,rumoet
+MA#33185_521,1899,5,True,schreeuwen
+MA#33185_533,1899,5,False,luidheels; nachtrust; stoorde
+MA#33185_552,1899,5,True,nachtrust
+MA#33185_614,1899,5,True,nachtegaal
+MA#33185_715,1899,5,False,lawijt; nachtrumoer; stoorde
+MA#33185_726,1899,5,True,buidkeels; luidkeels
+MA#33185_730,1899,5,False,lawaar
+MA#33185_738,1899,5,True,nachtmaker
+MA#33185_743,1899,5,True,gestoord; lawari; nachtruinoer
+MA#33185_766,1899,5,False,luidkeels; nachtust; stoorde
+MA#33185_875,1899,5,True,lawaai; lawijt
+MA#33185_905,1899,5,True,luidkeels; nachtrust; stoorde
+MA#33185_906,1899,5,True,gerucht; lawaai
+MA#33185_982,1899,5,True,luidheels
+MA#33185_1020,1899,5,False,luidheels; nachtrust; stoorde
+MA#33185_1033,1899,5,True,luitkeels; nachtust
+MA#33185_1054,1899,5,True,nachtrust
+MA#33185_1078,1899,5,True,luidkeels
+MA#33185_1104,1899,5,True,nachtrust; stoorde
+MA#33185_1134,1899,5,True,gestoord; lawaai; nachtrust
+MA#33185_1141,1899,5,True,luidheelsscheldwoorden
+MA#33185_1158,1899,5,True,law; nachtrust
+MA#33185_1160,1899,5,True,luidkeels; nachtrust
+MA#33185_1173,1899,5,True,luidkeels; nachtrust; stoorde
+MA#33185_1183,1899,5,False,nachtrust; stoorde
+MA#33186_232,1921,11,True,rumoermaak
+MA#33186_337,1921,11,True,nachtremoer
+MA#33186_356,1921,11,True,nachtrust; stoorde
+MA#33186_440,1921,11,False,kabaar
+MA#33186_530,1921,11,True,nachtrust
+MA#33186_836,1921,11,True,luidkeels; nachtrust
+MA#33186_910,1921,11,True,luidkeels; nachtrust; stoorde
+MA#33186_921,1921,11,True,stoorde
+MA#33186_934,1921,11,True,luidkeels
+MA#33186_964,1921,11,True,luidkeels
+MA#33186_1006,1921,11,True,nachtlamaai
+MA#33186_1017,1921,11,True,luidkeels; nachtrust; stoorde
+MA#33186_1046,1921,11,True,nachtrust
+MA#33186_1092,1921,11,True,rumaer
+MA#33186_1320,1921,11,False,luidkeuls; nachtrast; stoorde
+MA#33186_1333,1921,11,True,luidheels; nachtrust; stoorde
+MA#33186_1351,1921,11,True,luidkeels
+MA#33186_1377,1921,11,False,krakeel
+MA#33186_1397,1921,11,True,luidkeels; nachtrust; stoorde
+MA#33186_1534,1921,11,True,nachtrumaer; nachtrumoer
+MA#33189_61,1927,11,True,nachtrust
+MA#33189_144,1927,11,False,lawaar
+MA#33189_240,1927,11,True,gestoord; nachtrust
+MA#33189_317,1927,11,True,gerucht
+MA#33189_353,1927,11,True,nachtrust
+MA#33189_387,1927,11,True,nachtrust
+MA#33189_399,1927,11,True,luidheels; nachtrust
+MA#33189_404,1927,11,True,luidruchtig
+MA#33189_428,1927,11,True,larwijd
+MA#33189_433,1927,11,True,nachtrumoer
+MA#33189_476,1927,11,True,luidheels
+MA#33189_499,1927,11,False,luidkeels; stoorde
+MA#33189_539,1927,11,True,luidkeels; nachtrust
+MA#33189_581,1927,11,False,luidkeels; nachtremoer; nachtrust
+MA#33189_582,1927,11,False,luidkeels; nachtrust
+MA#33189_622,1927,11,False,gestoord; luidheels; nachtrust
+MA#33189_672,1927,11,True,nachtegaal
+MA#33189_692,1927,11,False,nachtrust
+MA#33189_713,1927,11,True,luidkeels
+MA#33189_746,1927,11,True,nachtrust; stoorde
+MA#33189_896,1927,11,True,luidkeels; nachtrust
+MA#33189_918,1927,11,True,luidkeels; nachtrust
+MA#33189_926,1927,11,True,nachtrust; stoorde
+MA#33189_943,1927,11,True,nachtrust; stoorde
+MA#33189_984,1927,11,True,luidkeels; zachtrust
+MA#33189_1032,1927,11,True,luidkeels; nachtrust
+MA#33189_1073,1927,11,True,stoorde
+MA#33189_1084,1927,11,True,nachtrust
+MA#33189_1189,1927,11,True,nachtlarief
+MA#33189_1207,1927,11,False,nachtrumeer
+MA#33189_1209,1927,11,False,nachtrust
+MA#33191_3,1931,11,True,nachtrust
+MA#33191_21,1931,11,True,gerucht
+MA#33191_72,1931,11,True,nachtrust
+MA#33191_79,1931,11,True,luidkeels
+MA#33191_95,1931,11,True,aldaarluidheels
+MA#33191_136,1931,11,False,gestoord
+MA#33191_141,1931,11,True,nachtrust
+MA#33191_150,1931,11,False,nachtrust
+MA#33191_218,1931,11,True,luidkeels; nachtrumoer
+MA#33191_241,1931,11,True,luidkeels; nachtrust
+MA#33191_449,1931,11,True,nachtrust
+MA#33191_450,1931,11,True,gestoord; luidkeels; nachtrust
+MA#33191_526,1931,11,False,luidruchtig
+MA#33191_564,1931,11,True,luidkeels; nachtrust
+MA#33191_575,1931,11,True,nachtrust
+MA#33191_595,1931,11,True,nachtrust
+MA#33191_641,1931,11,True,luidkeels; nachtrust
+MA#33191_659,1931,11,True,kabaal; luidkeels; nachtrust; stoorde
+MA#33191_717,1931,11,True,nachtrust
+MA#33191_719,1931,11,False,nachtegaal
+MA#33191_730,1931,11,True,nachtgewaad
+MA#33191_767,1931,11,True,nachtrust
+MA#33191_768,1931,11,False,gestoord; nachtrust
+MA#33191_900,1931,11,True,luidkeels
+MA#33191_902,1931,11,False,nachtlicht
+MA#33191_903,1931,11,False,nachtlicht
+MA#33191_993,1931,11,True,gestoord; luidkeels
+MA#33191_999,1931,11,True,gerucht; gestoord; lawaai; nachtwust
+MA#33191_1000,1931,11,False,machtgerucht
+MA#33191_1010,1931,11,False,ruchtkwam
+MA#33311_888,1935,11,False,nachtrust
+MA#33311_2403,1935,11,False,nachtgerucht
+MA#33313_1305,1936,11,False,gestoord
+MA#33313_1820,1936,11,False,nachtgerucht
+MA#33316_2475,1939,11,True,nachtruht
+MA#33316_2988,1939,11,False,nachtgerucht
+MA#33316_3024,1939,11,False,trucht
+MA#33316_3238,1939,11,False,kabaal
+MA#33316_3385,1939,11,False,berucht
+MA#33316_4029,1939,11,False,vachtrust
+MA#41581_460,1941,1,False,luidruchtig
