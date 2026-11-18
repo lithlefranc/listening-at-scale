@@ -1,4 +1,4 @@
-# Listening at Scale: code
+# Listening at Scale
 
 Code for 'Listening at Scale. Word Embeddings as Historical Domain Knowledge for LLM-assisted Annotation in a Large Corpus of Police Records (Antwerp, 1876–1939)', *Computational Humanities Research Conference* 2027.
 
@@ -20,7 +20,7 @@ Run in order. Figures are written to `fig/`, tables to `tab/`.
 
 ## Data
 
-Not included. The raw data are on Zenodo: https://zenodo.org/records/12805005. For the processed datasets and models, contact Lith.Lefranc@UAntwerpen.be. Place them in `data/`.
+The data are not included in this repo. The raw data are on Zenodo: https://zenodo.org/records/12805005. For the processed datasets and models, contact Lith.Lefranc@UAntwerpen.be. Place them in `data/`.
 
 ## Notes
 
